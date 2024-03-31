@@ -1,0 +1,4 @@
+(function() {
+var index =  {"chunkinfos":[{"first":"<index>bridge 1x1 slot port path cost<default para font> command","last":"<index>spb isis control-address<default para font> command","node":"idata1","num":"53","type":"chunkinfo"},{"first":"<index>spb isis control-bvlan<default para font> command","last":"Fast Spanning Tree","node":"idata2","num":"53","type":"chunkinfo"},{"first":"high availability VLANs","last":"RSTP","node":"idata3","num":"53","type":"chunkinfo"},{"first":"Shortest Path Bridging","last":"Spanning Tree Bridge","node":"idata4","num":"34","type":"chunkinfo"},{"first":"Spanning Tree bridge parameters","last":"VLANs","node":"idata5","num":"44","type":"chunkinfo"}],"type":"index"};
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), index, { sync:true });
+})();

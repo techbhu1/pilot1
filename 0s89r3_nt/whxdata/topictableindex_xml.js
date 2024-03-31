@@ -1,0 +1,1 @@
+gXMLBuffer="<?xml version=\"1.0\" encoding=\"UTF-8\"?><cki><ck fm=\"1-Configuring Ethernet-Ports\" to=\"OmniSwitch Network Configuration Guide\" num=\"10\"/></cki>";

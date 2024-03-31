@@ -1,0 +1,1 @@
+gXMLBuffer="<?xml version=\"1.0\" encoding=\"UTF-8\"?><cki><ck fm=\"1-Ethernet Port Commands\" to=\"OmniSwitch AOS CLI Reference Guide\" num=\"13\"/></cki>";

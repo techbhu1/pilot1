@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE polprojfile>
+<ppfml version="2.00" project="os8_nt - Web" type="4">
+ <windowlist defaultwindow="NewWindow">
+  <window name="NewWindow" x="5%" y="5%" width="90%" height="90%" viewtype="doublepane" workspacestyle="DEFAULT" toolbar="off" locationbar="off" menu="off" resizable="yes" statusbar="off" usecurrentwindowsettings="yes" caption="NewWindow">
+   <elements><element name="BrowseSequence" Present="yes" /><element name="SearchInput" Present="no" />
+   </elements>
+   <agents defaultagent="toc">
+    <agent>toc
+    </agent>
+    <agent>ndx
+    </agent>
+    <agent>nls
+    </agent>
+    <agent>gls
+    </agent>
+   </agents>
+  </window>
+ </windowlist>
+ <contextmap>
+ </contextmap>
+ <topiclist defaulttopic="os8_nt_-_Web\1-Configuring_Ethernet-Ports\1-Configuring_Ethernet-Ports.htm">
+  <topic>os8_nt_-_Web\1-Configuring_Ethernet-Ports\1-Configuring_Ethernet-Ports.htm
+  </topic>
+  <topic>os8_nt_-_Web\2-Configuring_UDLD\2-Configuring_UDLD.htm
+  </topic>
+  <topic>os8_nt_-_Web\3_-_Managing_Source_Learning\3_-_Managing_Source_Learning.htm
+  </topic>
+  <topic>os8_nt_-_Web\4-Configuring_VLANs\4-Configuring_VLANs.htm
+  </topic>
+  <topic>os8_nt_-_Web\5-Configuring_High_Availability_VLANs\5-Configuring_High_Availability_VLANs.htm
+  </topic>
+  <topic>os8_nt_-_Web\6-Configuring_Spanning_Tree_Parameters\6-Configuring_Spanning_Tree_Parameters.htm
+  </topic>
+  <topic>os8_nt_-_Web\7-Configuring_Shortest_Path_Bridging\7-Configuring_Shortest_Path_Bridging.htm
+  </topic>
+  <topic>os8_nt_-_Web\About_This_Guide\About_This_Guide.htm
+  </topic>
+  <topic>os8_nt_-_Web\copyright\copyright.htm
+  </topic>
+  <topic>os8_nt_-_Web\OmniSwitch_Network_Configuration_Guide\OmniSwitch_Network_Configuration_Guide.htm
+  </topic>
+ </topiclist>
+ <projectincludes>
+ </projectincludes>
+ <filenamemap>
+  <filenameentry moniker="wh_languagetype">
+   <filename>en_US
+   </filename>
+  </filenameentry>
+  <filenameentry moniker="nls">
+   <filename>.nla
+   </filename>
+  </filenameentry>
+  <filenameentry moniker="wh_lngfile">
+   <filename>index.lng
+   </filename>
+  </filenameentry>
+  <filenameentry moniker="wh_stoplist">
+   <filename>index.stp
+   </filename>
+  </filenameentry>
+  <filenameentry moniker="startpage">
+   <filename>index.html
+   </filename>
+  </filenameentry>
+  <filenameentry moniker="favicon">
+   <filename>Responsive HTML5_favicon.png
+   </filename>
+  </filenameentry>
+ </filenamemap>
+</ppfml>

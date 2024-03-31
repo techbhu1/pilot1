@@ -1,0 +1,3599 @@
+﻿p,div,span,table,object {
+                         clear:both;
+}
+p.Appendix_Title {
+                  margin-left:0.00pt;
+                  margin-right:0.00pt;
+                  margin-top:0.00pt;
+                  margin-bottom:70.00pt;
+                  text-align:right;
+                  text-indent:0.00pt;
+                  line-height:35.00pt;
+                  word-spacing:0.25em;
+                  hyphens:auto;
+                  direction:inherit;
+                  color:#000000;
+                  font-family:"Futura Book";
+                  font-size:30.00pt;
+                  font-weight:Bold;
+                  font-style:normal;
+                  background-color:transparent;
+                  text-decoration:none;
+                  letter-spacing:0.00em;
+                  font-stretch:normal;
+                  text-transform:none;
+                  font-kerning:normal;
+                  counter-increment:C_1;
+}
+p.Appendix_Title_1st {
+                      margin-left:0.00pt;
+                      margin-right:0.00pt;
+                      margin-top:0.00pt;
+                      margin-bottom:70.00pt;
+                      text-align:right;
+                      text-indent:0.00pt;
+                      line-height:35.00pt;
+                      word-spacing:0.25em;
+                      hyphens:auto;
+                      direction:inherit;
+                      color:#000000;
+                      font-family:"Futura Book";
+                      font-size:30.00pt;
+                      font-weight:Bold;
+                      font-style:normal;
+                      background-color:transparent;
+                      text-decoration:none;
+                      letter-spacing:0.00em;
+                      font-stretch:normal;
+                      text-transform:none;
+                      font-kerning:normal;
+}
+p.Body {
+        margin-left:0.00pt;
+        margin-right:0.00pt;
+        margin-top:0.00pt;
+        margin-bottom:0.00pt;
+        text-align:left;
+        text-indent:0.00pt;
+        line-height:14.00pt;
+        word-spacing:0.25em;
+        hyphens:auto;
+        direction:inherit;
+        color:#000000;
+        font-family:"Times New Roman";
+        font-size:12.00pt;
+        font-weight:normal;
+        font-style:normal;
+        background-color:transparent;
+        text-decoration:none;
+        letter-spacing:0.00em;
+        font-stretch:normal;
+        text-transform:none;
+        font-kerning:normal;
+}
+p.Bulleted {
+            margin-left:18.00pt;
+            margin-right:0.00pt;
+            margin-top:0.00pt;
+            margin-bottom:0.00pt;
+            text-align:left;
+            text-indent:-18.00pt;
+            line-height:14.00pt;
+            word-spacing:0.25em;
+            hyphens:auto;
+            direction:inherit;
+            color:#000000;
+            font-family:"Times New Roman";
+            font-size:12.00pt;
+            font-weight:normal;
+            font-style:normal;
+            background-color:transparent;
+            text-decoration:none;
+            letter-spacing:0.00em;
+            font-stretch:normal;
+            text-transform:none;
+            font-kerning:normal;
+}
+p.CLI_command {
+               margin-left:0.00pt;
+               margin-right:0.00pt;
+               margin-top:21.00pt;
+               margin-bottom:14.00pt;
+               text-align:left;
+               text-indent:0.00pt;
+               line-height:14.00pt;
+               word-spacing:0.25em;
+               hyphens:auto;
+               direction:inherit;
+               color:#000000;
+               font-family:"Futura Md BT";
+               font-size:14.00pt;
+               font-weight:Bold;
+               font-style:normal;
+               background-color:transparent;
+               text-decoration:none;
+               letter-spacing:0.00em;
+               font-stretch:normal;
+               text-transform:none;
+               font-kerning:normal;
+}
+p.CLI_heading1 {
+                margin-left:18.00pt;
+                margin-right:0.00pt;
+                margin-top:17.00pt;
+                margin-bottom:8.00pt;
+                text-align:left;
+                text-indent:0.00pt;
+                line-height:11.00pt;
+                word-spacing:0.25em;
+                hyphens:auto;
+                direction:inherit;
+                color:#000000;
+                font-family:"Futura Book";
+                font-size:11.00pt;
+                font-weight:Bold;
+                font-style:normal;
+                background-color:transparent;
+                text-decoration:none;
+                letter-spacing:0.00em;
+                font-stretch:normal;
+                text-transform:none;
+                font-kerning:normal;
+}
+p.CLI_heading_first {
+                     margin-left:18.00pt;
+                     margin-right:0.00pt;
+                     margin-top:17.00pt;
+                     margin-bottom:8.00pt;
+                     text-align:left;
+                     text-indent:0.00pt;
+                     line-height:11.00pt;
+                     word-spacing:0.25em;
+                     hyphens:auto;
+                     direction:inherit;
+                     color:#000000;
+                     font-family:"Futura Book";
+                     font-size:11.00pt;
+                     font-weight:Bold;
+                     font-style:normal;
+                     background-color:transparent;
+                     text-decoration:none;
+                     letter-spacing:0.00em;
+                     font-stretch:normal;
+                     text-transform:none;
+                     font-kerning:normal;
+}
+p.CLI_syntax {
+              margin-left:18.00pt;
+              margin-right:0.00pt;
+              margin-top:8.50pt;
+              margin-bottom:0.00pt;
+              text-align:left;
+              text-indent:0.00pt;
+              line-height:12.00pt;
+              word-spacing:0.25em;
+              hyphens:auto;
+              direction:inherit;
+              color:#000000;
+              font-family:"Times New Roman";
+              font-size:10.50pt;
+              font-weight:Bold;
+              font-style:normal;
+              background-color:transparent;
+              text-decoration:none;
+              letter-spacing:0.00em;
+              font-stretch:normal;
+              text-transform:none;
+              font-kerning:none;
+}
+p.CLI_syntax_opt {
+                  margin-left:31.97pt;
+                  margin-right:0.00pt;
+                  margin-top:2.00pt;
+                  margin-bottom:2.00pt;
+                  text-align:left;
+                  text-indent:0.00pt;
+                  line-height:12.00pt;
+                  word-spacing:0.25em;
+                  hyphens:auto;
+                  direction:inherit;
+                  color:#000000;
+                  font-family:"Times New Roman";
+                  font-size:10.50pt;
+                  font-weight:Bold;
+                  font-style:normal;
+                  background-color:transparent;
+                  text-decoration:none;
+                  letter-spacing:0.00em;
+                  font-stretch:normal;
+                  text-transform:none;
+                  font-kerning:none;
+}
+p.CellBody {
+            margin-left:0.00pt;
+            margin-right:0.00pt;
+            margin-top:0.00pt;
+            margin-bottom:0.00pt;
+            text-align:left;
+            text-indent:0.00pt;
+            line-height:12.00pt;
+            word-spacing:0.25em;
+            hyphens:auto;
+            direction:inherit;
+            color:#000000;
+            font-family:"Times New Roman";
+            font-size:10.50pt;
+            font-weight:normal;
+            font-style:normal;
+            background-color:transparent;
+            text-decoration:none;
+            letter-spacing:0.00em;
+            font-stretch:normal;
+            text-transform:none;
+            font-kerning:normal;
+}
+p.CellBody_6pt_left {
+                     margin-left:0.00pt;
+                     margin-right:0.00pt;
+                     margin-top:0.00pt;
+                     margin-bottom:0.00pt;
+                     text-align:left;
+                     text-indent:0.00pt;
+                     line-height:12.00pt;
+                     word-spacing:0.25em;
+                     hyphens:auto;
+                     direction:inherit;
+                     color:#000000;
+                     font-family:"Times New Roman";
+                     font-size:10.50pt;
+                     font-weight:normal;
+                     font-style:normal;
+                     background-color:transparent;
+                     text-decoration:none;
+                     letter-spacing:0.00em;
+                     font-stretch:normal;
+                     text-transform:none;
+                     font-kerning:normal;
+}
+p.CellBody_cli_cmd {
+                    margin-left:0.00pt;
+                    margin-right:0.00pt;
+                    margin-top:0.00pt;
+                    margin-bottom:0.00pt;
+                    text-align:left;
+                    text-indent:0.00pt;
+                    line-height:10.50pt;
+                    word-spacing:0.25em;
+                    hyphens:none;
+                    direction:inherit;
+                    color:#000000;
+                    font-family:"Times New Roman";
+                    font-size:10.50pt;
+                    font-weight:Bold;
+                    font-style:normal;
+                    background-color:transparent;
+                    text-decoration:none;
+                    letter-spacing:0.00em;
+                    font-stretch:normal;
+                    text-transform:none;
+                    font-kerning:normal;
+}
+p.CellBody_courier {
+                    margin-left:0.00pt;
+                    margin-right:0.00pt;
+                    margin-top:0.00pt;
+                    margin-bottom:0.00pt;
+                    text-align:left;
+                    text-indent:0.00pt;
+                    line-height:9.00pt;
+                    word-spacing:0.25em;
+                    hyphens:none;
+                    direction:inherit;
+                    color:#000000;
+                    font-family:"Courier New";
+                    font-size:9.00pt;
+                    font-weight:normal;
+                    font-style:normal;
+                    background-color:transparent;
+                    text-decoration:none;
+                    letter-spacing:0.00em;
+                    font-stretch:normal;
+                    text-transform:none;
+                    font-kerning:normal;
+}
+p.CellBody_note_bullet {
+                        margin-left:14.40pt;
+                        margin-right:0.00pt;
+                        margin-top:6.00pt;
+                        margin-bottom:0.00pt;
+                        text-align:left;
+                        text-indent:-14.40pt;
+                        line-height:10.50pt;
+                        word-spacing:0.25em;
+                        hyphens:auto;
+                        direction:inherit;
+                        color:#000000;
+                        font-family:"Times New Roman";
+                        font-size:10.50pt;
+                        font-weight:normal;
+                        font-style:normal;
+                        background-color:transparent;
+                        text-decoration:none;
+                        letter-spacing:0.00em;
+                        font-stretch:normal;
+                        text-transform:none;
+                        font-kerning:none;
+}
+p.CellBody_note_text {
+                      margin-left:0.00pt;
+                      margin-right:0.00pt;
+                      margin-top:6.00pt;
+                      margin-bottom:0.00pt;
+                      text-align:left;
+                      text-indent:0.00pt;
+                      line-height:12.00pt;
+                      word-spacing:0.25em;
+                      hyphens:none;
+                      direction:inherit;
+                      color:#000000;
+                      font-family:"Times New Roman";
+                      font-size:10.50pt;
+                      font-weight:normal;
+                      font-style:normal;
+                      background-color:transparent;
+                      text-decoration:none;
+                      letter-spacing:0.00em;
+                      font-stretch:normal;
+                      text-transform:none;
+                      font-kerning:normal;
+}
+p.CellBody_small {
+                  margin-left:0.00pt;
+                  margin-right:0.00pt;
+                  margin-top:0.00pt;
+                  margin-bottom:0.00pt;
+                  text-align:left;
+                  text-indent:0.00pt;
+                  line-height:10.00pt;
+                  word-spacing:0.25em;
+                  hyphens:none;
+                  direction:inherit;
+                  color:#000000;
+                  font-family:"Times New Roman";
+                  font-size:9.50pt;
+                  font-weight:Bold;
+                  font-style:normal;
+                  background-color:transparent;
+                  text-decoration:none;
+                  letter-spacing:0.00em;
+                  font-stretch:normal;
+                  text-transform:none;
+                  font-kerning:normal;
+}
+p.CellHeading {
+               margin-left:0.00pt;
+               margin-right:0.00pt;
+               margin-top:0.00pt;
+               margin-bottom:0.00pt;
+               text-align:left;
+               text-indent:0.00pt;
+               line-height:12.50pt;
+               word-spacing:0.25em;
+               hyphens:none;
+               direction:inherit;
+               color:#000000;
+               font-family:"Times New Roman";
+               font-size:10.50pt;
+               font-weight:Bold;
+               font-style:normal;
+               background-color:transparent;
+               text-decoration:none;
+               letter-spacing:0.00em;
+               font-stretch:normal;
+               text-transform:none;
+               font-kerning:normal;
+}
+p.CellHeading2 {
+                margin-left:0.00pt;
+                margin-right:0.00pt;
+                margin-top:0.00pt;
+                margin-bottom:0.00pt;
+                text-align:left;
+                text-indent:0.00pt;
+                line-height:12.50pt;
+                word-spacing:0.25em;
+                hyphens:none;
+                direction:inherit;
+                color:#000000;
+                font-family:"Times New Roman";
+                font-size:10.50pt;
+                font-weight:Bold;
+                font-style:normal;
+                background-color:transparent;
+                text-decoration:none;
+                letter-spacing:0.00em;
+                font-stretch:normal;
+                text-transform:none;
+                font-kerning:normal;
+}
+p.CellHeading_small {
+                     margin-left:0.00pt;
+                     margin-right:0.00pt;
+                     margin-top:0.00pt;
+                     margin-bottom:0.00pt;
+                     text-align:left;
+                     text-indent:0.00pt;
+                     line-height:12.00pt;
+                     word-spacing:0.25em;
+                     hyphens:none;
+                     direction:inherit;
+                     color:#000000;
+                     font-family:"Times New Roman";
+                     font-size:10.00pt;
+                     font-weight:Bold;
+                     font-style:normal;
+                     background-color:transparent;
+                     text-decoration:none;
+                     letter-spacing:0.00em;
+                     font-stretch:normal;
+                     text-transform:none;
+                     font-kerning:normal;
+}
+p.CellVert {
+            margin-left:0.00pt;
+            margin-right:0.00pt;
+            margin-top:0.00pt;
+            margin-bottom:0.00pt;
+            text-align:left;
+            text-indent:0.00pt;
+            line-height:10.50pt;
+            word-spacing:0.25em;
+            hyphens:auto;
+            direction:inherit;
+            color:#000000;
+            font-family:"Times New Roman";
+            font-size:9.50pt;
+            font-weight:Bold;
+            font-style:normal;
+            background-color:transparent;
+            text-decoration:none;
+            letter-spacing:0.00em;
+            font-stretch:normal;
+            text-transform:none;
+            font-kerning:normal;
+}
+p.Chapter_Title {
+                 margin-left:0.00pt;
+                 margin-right:0.00pt;
+                 margin-top:0.00pt;
+                 margin-bottom:70.00pt;
+                 text-align:right;
+                 text-indent:0.00pt;
+                 line-height:35.00pt;
+                 word-spacing:0.25em;
+                 hyphens:auto;
+                 direction:inherit;
+                 color:#000000;
+                 font-family:"Futura Book";
+                 font-size:30.00pt;
+                 font-weight:Bold;
+                 font-style:normal;
+                 background-color:transparent;
+                 text-decoration:none;
+                 letter-spacing:0.00em;
+                 font-stretch:normal;
+                 text-transform:none;
+                 font-kerning:normal;
+                 counter-increment:C_1;
+}
+p.Chapter_Title_no_num {
+                        margin-left:0.00pt;
+                        margin-right:0.00pt;
+                        margin-top:0.00pt;
+                        margin-bottom:70.00pt;
+                        text-align:right;
+                        text-indent:0.00pt;
+                        line-height:35.00pt;
+                        word-spacing:0.25em;
+                        hyphens:auto;
+                        direction:inherit;
+                        color:#000000;
+                        font-family:"Futura Book";
+                        font-size:30.00pt;
+                        font-weight:Bold;
+                        font-style:normal;
+                        background-color:transparent;
+                        text-decoration:none;
+                        letter-spacing:0.00em;
+                        font-stretch:normal;
+                        text-transform:none;
+                        font-kerning:normal;
+}
+p.Definitions1 {
+                margin-left:162.00pt;
+                margin-right:0.00pt;
+                margin-top:8.50pt;
+                margin-bottom:0.00pt;
+                text-align:left;
+                text-indent:-144.00pt;
+                line-height:12.00pt;
+                word-spacing:0.25em;
+                hyphens:auto;
+                direction:inherit;
+                color:#000000;
+                font-family:"Times New Roman";
+                font-size:10.50pt;
+                font-weight:normal;
+                font-style:normal;
+                background-color:transparent;
+                text-decoration:none;
+                letter-spacing:0.00em;
+                font-stretch:normal;
+                text-transform:none;
+                font-kerning:none;
+}
+p.FigureTitle {
+               margin-left:0.00pt;
+               margin-right:0.00pt;
+               margin-top:0.00pt;
+               margin-bottom:0.00pt;
+               text-align:center;
+               text-indent:0.00pt;
+               line-height:12.50pt;
+               word-spacing:0.25em;
+               hyphens:none;
+               direction:inherit;
+               color:#000000;
+               font-family:"Times New Roman";
+               font-size:10.50pt;
+               font-weight:Bold;
+               font-style:normal;
+               background-color:transparent;
+               text-decoration:none;
+               letter-spacing:0.00em;
+               font-stretch:normal;
+               text-transform:none;
+               font-kerning:normal;
+               counter-increment:global_1;
+}
+p.Figure_Title_NumOne {
+                       margin-left:0.00pt;
+                       margin-right:0.00pt;
+                       margin-top:0.00pt;
+                       margin-bottom:0.00pt;
+                       text-align:center;
+                       text-indent:0.00pt;
+                       line-height:12.50pt;
+                       word-spacing:0.25em;
+                       hyphens:none;
+                       direction:inherit;
+                       color:#000000;
+                       font-family:"Times New Roman";
+                       font-size:10.50pt;
+                       font-weight:Bold;
+                       font-style:normal;
+                       background-color:transparent;
+                       text-decoration:none;
+                       letter-spacing:0.00em;
+                       font-stretch:normal;
+                       text-transform:none;
+                       font-kerning:normal;
+                       counter-increment:global_1;
+}
+p.Footnote {
+            margin-left:30.00pt;
+            margin-right:18.00pt;
+            margin-top:0.00pt;
+            margin-bottom:0.00pt;
+            text-align:left;
+            text-indent:-12.00pt;
+            line-height:12.00pt;
+            word-spacing:0.25em;
+            hyphens:auto;
+            direction:inherit;
+            color:#000000;
+            font-family:"Times New Roman";
+            font-size:10.00pt;
+            font-weight:normal;
+            font-style:normal;
+            background-color:transparent;
+            text-decoration:none;
+            letter-spacing:0.00em;
+            font-stretch:normal;
+            text-transform:none;
+            font-kerning:normal;
+}
+p.Header_Left_ {
+                margin-left:0.00pt;
+                margin-right:2.26pt;
+                margin-top:0.00pt;
+                margin-bottom:0.00pt;
+                text-align:left;
+                text-indent:0.00pt;
+                line-height:9.00pt;
+                word-spacing:0.25em;
+                hyphens:auto;
+                direction:inherit;
+                color:#000000;
+                font-family:"Futura Book";
+                font-size:9.00pt;
+                font-weight:normal;
+                font-style:normal;
+                background-color:transparent;
+                text-decoration:none;
+                letter-spacing:0.00em;
+                font-stretch:normal;
+                text-transform:none;
+                font-kerning:none;
+}
+p.Heading1 {
+            margin-left:0.00pt;
+            margin-right:0.00pt;
+            margin-top:14.00pt;
+            margin-bottom:6.00pt;
+            text-align:left;
+            text-indent:0.00pt;
+            line-height:16.00pt;
+            word-spacing:0.25em;
+            hyphens:auto;
+            direction:inherit;
+            color:#000000;
+            font-family:"Times New Roman";
+            font-size:14.00pt;
+            font-weight:Bold;
+            font-style:normal;
+            background-color:transparent;
+            text-decoration:none;
+            letter-spacing:0.00em;
+            font-stretch:normal;
+            text-transform:none;
+            font-kerning:normal;
+            margin-left:0.00pt;
+            margin-right:0.00pt;
+            margin-top:28.00pt;
+            margin-bottom:12.00pt;
+            text-align:left;
+            text-indent:0.00pt;
+            line-height:18.00pt;
+            word-spacing:0.25em;
+            hyphens:auto;
+            direction:inherit;
+            color:#000000;
+            font-family:"Futura Book";
+            font-size:18.00pt;
+            font-weight:Bold;
+            font-style:normal;
+            background-color:transparent;
+            text-decoration:none;
+            letter-spacing:0.00em;
+            font-stretch:normal;
+            text-transform:none;
+            font-kerning:normal;
+}
+p.Heading2 {
+            margin-left:0.00pt;
+            margin-right:0.00pt;
+            margin-top:12.00pt;
+            margin-bottom:3.00pt;
+            text-align:left;
+            text-indent:0.00pt;
+            line-height:14.00pt;
+            word-spacing:0.25em;
+            hyphens:auto;
+            direction:inherit;
+            color:#000000;
+            font-family:"Times New Roman";
+            font-size:12.00pt;
+            font-weight:Bold;
+            font-style:normal;
+            background-color:transparent;
+            text-decoration:none;
+            letter-spacing:0.00em;
+            font-stretch:normal;
+            text-transform:none;
+            font-kerning:normal;
+            margin-left:0.00pt;
+            margin-right:0.00pt;
+            margin-top:20.00pt;
+            margin-bottom:9.00pt;
+            text-align:left;
+            text-indent:0.00pt;
+            line-height:14.00pt;
+            word-spacing:0.25em;
+            hyphens:auto;
+            direction:inherit;
+            color:#000000;
+            font-family:"Futura Book";
+            font-size:14.00pt;
+            font-weight:Bold;
+            font-style:normal;
+            background-color:transparent;
+            text-decoration:none;
+            letter-spacing:0.00em;
+            font-stretch:normal;
+            text-transform:none;
+            font-kerning:normal;
+}
+p.HeadingRunIn {
+                margin-left:0.00pt;
+                margin-right:0.00pt;
+                margin-top:5.00pt;
+                margin-bottom:0.00pt;
+                text-align:left;
+                text-indent:0.00pt;
+                line-height:12.50pt;
+                word-spacing:0.25em;
+                hyphens:auto;
+                direction:inherit;
+                color:#000000;
+                font-family:"Times New Roman";
+                font-size:10.50pt;
+                font-weight:Bold;
+                font-style:normal;
+                background-color:transparent;
+                text-decoration:none;
+                letter-spacing:0.00em;
+                font-stretch:normal;
+                text-transform:none;
+                font-kerning:normal;
+}
+p.Indented {
+            margin-left:18.00pt;
+            margin-right:0.00pt;
+            margin-top:0.00pt;
+            margin-bottom:0.00pt;
+            text-align:left;
+            text-indent:0.00pt;
+            line-height:12.50pt;
+            word-spacing:0.25em;
+            hyphens:auto;
+            direction:inherit;
+            color:#000000;
+            font-family:"Times New Roman";
+            font-size:10.50pt;
+            font-weight:normal;
+            font-style:normal;
+            background-color:transparent;
+            text-decoration:none;
+            letter-spacing:0.00em;
+            font-stretch:normal;
+            text-transform:none;
+            font-kerning:normal;
+}
+p.Index_Title {
+               margin-left:0.00pt;
+               margin-right:0.00pt;
+               margin-top:0.00pt;
+               margin-bottom:60.00pt;
+               text-align:left;
+               text-indent:0.00pt;
+               line-height:30.00pt;
+               word-spacing:0.25em;
+               hyphens:auto;
+               direction:inherit;
+               color:#000000;
+               font-family:"Futura Book";
+               font-size:30.00pt;
+               font-weight:Bold;
+               font-style:normal;
+               background-color:transparent;
+               text-decoration:none;
+               letter-spacing:0.00em;
+               font-stretch:normal;
+               text-transform:none;
+               font-kerning:normal;
+}
+p.MIB_filename {
+                margin-left:31.97pt;
+                margin-right:0.00pt;
+                margin-top:8.50pt;
+                margin-bottom:3.00pt;
+                text-align:left;
+                text-indent:0.00pt;
+                line-height:12.00pt;
+                word-spacing:0.25em;
+                hyphens:auto;
+                direction:inherit;
+                color:#000000;
+                font-family:"Times New Roman";
+                font-size:10.50pt;
+                font-weight:normal;
+                font-style:normal;
+                background-color:transparent;
+                text-decoration:none;
+                letter-spacing:0.00em;
+                font-stretch:normal;
+                text-transform:none;
+                font-kerning:none;
+}
+p.MIB_table {
+             margin-left:18.00pt;
+             margin-right:0.00pt;
+             margin-top:3.00pt;
+             margin-bottom:0.00pt;
+             text-align:left;
+             text-indent:0.00pt;
+             line-height:11.00pt;
+             word-spacing:0.25em;
+             hyphens:auto;
+             direction:inherit;
+             color:#000000;
+             font-family:"Courier New";
+             font-size:9.00pt;
+             font-weight:normal;
+             font-style:normal;
+             background-color:transparent;
+             text-decoration:none;
+             letter-spacing:0.00em;
+             font-stretch:normal;
+             text-transform:none;
+             font-kerning:none;
+}
+p.MIB_var1 {
+            margin-left:31.97pt;
+            margin-right:0.00pt;
+            margin-top:3.00pt;
+            margin-bottom:0.00pt;
+            text-align:left;
+            text-indent:0.00pt;
+            line-height:11.00pt;
+            word-spacing:0.25em;
+            hyphens:auto;
+            direction:inherit;
+            color:#000000;
+            font-family:"Courier New";
+            font-size:9.00pt;
+            font-weight:normal;
+            font-style:normal;
+            background-color:transparent;
+            text-decoration:none;
+            letter-spacing:0.00em;
+            font-stretch:normal;
+            text-transform:none;
+            font-kerning:none;
+}
+p.MIB_var2 {
+            margin-left:31.97pt;
+            margin-right:0.00pt;
+            margin-top:0.00pt;
+            margin-bottom:0.00pt;
+            text-align:left;
+            text-indent:0.00pt;
+            line-height:11.00pt;
+            word-spacing:0.25em;
+            hyphens:auto;
+            direction:inherit;
+            color:#000000;
+            font-family:"Courier New";
+            font-size:9.00pt;
+            font-weight:normal;
+            font-style:normal;
+            background-color:transparent;
+            text-decoration:none;
+            letter-spacing:0.00em;
+            font-stretch:normal;
+            text-transform:none;
+            font-kerning:none;
+}
+p.MIB_var_line {
+                margin-left:31.97pt;
+                margin-right:0.00pt;
+                margin-top:0.00pt;
+                margin-bottom:0.00pt;
+                text-align:left;
+                text-indent:0.00pt;
+                line-height:11.00pt;
+                word-spacing:0.25em;
+                hyphens:auto;
+                direction:inherit;
+                color:#000000;
+                font-family:"Courier New";
+                font-size:9.00pt;
+                font-weight:normal;
+                font-style:normal;
+                background-color:transparent;
+                text-decoration:none;
+                letter-spacing:0.00em;
+                font-stretch:normal;
+                text-transform:none;
+                font-kerning:none;
+}
+p.MIB_var_single {
+                  margin-left:31.97pt;
+                  margin-right:0.00pt;
+                  margin-top:3.00pt;
+                  margin-bottom:0.00pt;
+                  text-align:left;
+                  text-indent:0.00pt;
+                  line-height:11.00pt;
+                  word-spacing:0.25em;
+                  hyphens:auto;
+                  direction:inherit;
+                  color:#000000;
+                  font-family:"Courier New";
+                  font-size:9.00pt;
+                  font-weight:normal;
+                  font-style:normal;
+                  background-color:transparent;
+                  text-decoration:none;
+                  letter-spacing:0.00em;
+                  font-stretch:normal;
+                  text-transform:none;
+                  font-kerning:none;
+}
+p.Numbered {
+            margin-left:18.00pt;
+            margin-right:0.00pt;
+            margin-top:0.00pt;
+            margin-bottom:0.00pt;
+            text-align:left;
+            text-indent:-18.00pt;
+            line-height:12.50pt;
+            word-spacing:0.25em;
+            hyphens:auto;
+            direction:inherit;
+            color:#000000;
+            font-family:"Times New Roman";
+            font-size:10.50pt;
+            font-weight:normal;
+            font-style:normal;
+            background-color:transparent;
+            text-decoration:none;
+            letter-spacing:0.00em;
+            font-stretch:normal;
+            text-transform:none;
+            font-kerning:normal;
+            counter-increment:global_1;
+}
+p.Numbered1 {
+             margin-left:18.00pt;
+             margin-right:0.00pt;
+             margin-top:0.00pt;
+             margin-bottom:0.00pt;
+             text-align:left;
+             text-indent:-18.00pt;
+             line-height:12.50pt;
+             word-spacing:0.25em;
+             hyphens:auto;
+             direction:inherit;
+             color:#000000;
+             font-family:"Times New Roman";
+             font-size:10.50pt;
+             font-weight:normal;
+             font-style:normal;
+             background-color:transparent;
+             text-decoration:none;
+             letter-spacing:0.00em;
+             font-stretch:normal;
+             text-transform:none;
+             font-kerning:normal;
+             counter-reset:global_1 1;
+}
+p.TableFootnote {
+                 margin-left:30.00pt;
+                 margin-right:18.00pt;
+                 margin-top:0.00pt;
+                 margin-bottom:0.00pt;
+                 text-align:left;
+                 text-indent:-12.00pt;
+                 line-height:12.00pt;
+                 word-spacing:0.25em;
+                 hyphens:auto;
+                 direction:inherit;
+                 color:#000000;
+                 font-family:"Times New Roman";
+                 font-size:10.00pt;
+                 font-weight:normal;
+                 font-style:normal;
+                 background-color:transparent;
+                 text-decoration:none;
+                 letter-spacing:0.00em;
+                 font-stretch:normal;
+                 text-transform:none;
+                 font-kerning:normal;
+}
+p.TableTitle {
+              margin-left:0.00pt;
+              margin-right:0.00pt;
+              margin-top:0.00pt;
+              margin-bottom:0.00pt;
+              text-align:center;
+              text-indent:0.00pt;
+              line-height:12.50pt;
+              word-spacing:0.25em;
+              hyphens:none;
+              direction:inherit;
+              color:#000000;
+              font-family:"Times New Roman";
+              font-size:10.50pt;
+              font-weight:Bold;
+              font-style:normal;
+              background-color:transparent;
+              text-decoration:none;
+              letter-spacing:0.00em;
+              font-stretch:normal;
+              text-transform:none;
+              font-kerning:normal;
+              counter-increment:T_1;
+}
+p.TableTitleOutput {
+                    margin-left:18.00pt;
+                    margin-right:0.00pt;
+                    margin-top:0.00pt;
+                    margin-bottom:0.00pt;
+                    text-align:left;
+                    text-indent:0.00pt;
+                    line-height:12.50pt;
+                    word-spacing:0.25em;
+                    hyphens:none;
+                    direction:inherit;
+                    color:#000000;
+                    font-family:"Times New Roman";
+                    font-size:10.50pt;
+                    font-weight:Bold;
+                    font-style:Italic;
+                    background-color:transparent;
+                    text-decoration:none;
+                    letter-spacing:0.00em;
+                    font-stretch:normal;
+                    text-transform:none;
+                    font-kerning:normal;
+}
+p.Title {
+         margin-left:0.00pt;
+         margin-right:0.00pt;
+         margin-top:24.00pt;
+         margin-bottom:12.00pt;
+         text-align:center;
+         text-indent:0.00pt;
+         line-height:24.00pt;
+         word-spacing:0.25em;
+         hyphens:none;
+         direction:inherit;
+         color:#000000;
+         font-family:"Times New Roman";
+         font-size:18.00pt;
+         font-weight:Bold;
+         font-style:normal;
+         background-color:transparent;
+         text-decoration:none;
+         letter-spacing:0.00em;
+         font-stretch:normal;
+         text-transform:none;
+         font-kerning:normal;
+}
+p.TitlePage {
+             margin-left:0.00pt;
+             margin-right:0.00pt;
+             margin-top:0.00pt;
+             margin-bottom:60.00pt;
+             text-align:center;
+             text-indent:0.00pt;
+             line-height:30.00pt;
+             word-spacing:0.25em;
+             hyphens:auto;
+             direction:inherit;
+             color:#000000;
+             font-family:"Futura Book";
+             font-size:30.00pt;
+             font-weight:Bold;
+             font-style:normal;
+             background-color:transparent;
+             text-decoration:none;
+             letter-spacing:0.00em;
+             font-stretch:normal;
+             text-transform:none;
+             font-kerning:normal;
+}
+p.TitlePage2 {
+              margin-left:0.00pt;
+              margin-right:0.00pt;
+              margin-top:37.00pt;
+              margin-bottom:15.00pt;
+              text-align:center;
+              text-indent:0.00pt;
+              line-height:24.00pt;
+              word-spacing:0.25em;
+              hyphens:auto;
+              direction:inherit;
+              color:#000000;
+              font-family:"Futura Book";
+              font-size:24.00pt;
+              font-weight:Bold;
+              font-style:normal;
+              background-color:transparent;
+              text-decoration:none;
+              letter-spacing:0.00em;
+              font-stretch:normal;
+              text-transform:none;
+              font-kerning:normal;
+}
+p.bullet {
+          margin-left:31.97pt;
+          margin-right:0.00pt;
+          margin-top:8.50pt;
+          margin-bottom:0.00pt;
+          text-align:left;
+          text-indent:-13.97pt;
+          line-height:12.00pt;
+          word-spacing:0.25em;
+          hyphens:auto;
+          direction:inherit;
+          color:#000000;
+          font-family:"Times New Roman";
+          font-size:10.50pt;
+          font-weight:normal;
+          font-style:normal;
+          background-color:transparent;
+          text-decoration:none;
+          letter-spacing:0.00em;
+          font-stretch:normal;
+          text-transform:none;
+          font-kerning:none;
+}
+p.bullet2 {
+           margin-left:43.97pt;
+           margin-right:0.00pt;
+           margin-top:6.00pt;
+           margin-bottom:3.00pt;
+           text-align:left;
+           text-indent:-12.47pt;
+           line-height:10.50pt;
+           word-spacing:0.25em;
+           hyphens:auto;
+           direction:inherit;
+           color:#000000;
+           font-family:"Times New Roman";
+           font-size:10.50pt;
+           font-weight:normal;
+           font-style:normal;
+           background-color:transparent;
+           text-decoration:none;
+           letter-spacing:0.00em;
+           font-stretch:normal;
+           text-transform:none;
+           font-kerning:none;
+}
+p.bullet2sub {
+              margin-left:58.10pt;
+              margin-right:0.00pt;
+              margin-top:5.00pt;
+              margin-bottom:0.00pt;
+              text-align:left;
+              text-indent:-13.61pt;
+              line-height:10.50pt;
+              word-spacing:0.25em;
+              hyphens:auto;
+              direction:inherit;
+              color:#000000;
+              font-family:"Times New Roman";
+              font-size:10.50pt;
+              font-weight:normal;
+              font-style:normal;
+              background-color:transparent;
+              text-decoration:none;
+              letter-spacing:0.00em;
+              font-stretch:normal;
+              text-transform:none;
+              font-kerning:none;
+}
+p.bullet___cell {
+                 margin-left:14.40pt;
+                 margin-right:0.00pt;
+                 margin-top:1.00pt;
+                 margin-bottom:1.00pt;
+                 text-align:left;
+                 text-indent:-14.40pt;
+                 line-height:10.50pt;
+                 word-spacing:0.25em;
+                 hyphens:auto;
+                 direction:inherit;
+                 color:#000000;
+                 font-family:"Times New Roman";
+                 font-size:10.50pt;
+                 font-weight:normal;
+                 font-style:normal;
+                 background-color:transparent;
+                 text-decoration:none;
+                 letter-spacing:0.00em;
+                 font-stretch:normal;
+                 text-transform:none;
+                 font-kerning:none;
+}
+p.bullet_cell2 {
+                margin-left:21.60pt;
+                margin-right:0.00pt;
+                margin-top:1.00pt;
+                margin-bottom:1.00pt;
+                text-align:left;
+                text-indent:-10.80pt;
+                line-height:10.50pt;
+                word-spacing:0.25em;
+                hyphens:auto;
+                direction:inherit;
+                color:#000000;
+                font-family:"Times New Roman";
+                font-size:10.50pt;
+                font-weight:normal;
+                font-style:normal;
+                background-color:transparent;
+                text-decoration:none;
+                letter-spacing:0.00em;
+                font-stretch:normal;
+                text-transform:none;
+                font-kerning:none;
+}
+p.bullet_step_first {
+                     margin-left:30.00pt;
+                     margin-right:0.00pt;
+                     margin-top:9.00pt;
+                     margin-bottom:3.00pt;
+                     text-align:left;
+                     text-indent:0.75pt;
+                     line-height:12.00pt;
+                     word-spacing:0.25em;
+                     hyphens:auto;
+                     direction:inherit;
+                     color:#000000;
+                     font-family:"Times New Roman";
+                     font-size:10.50pt;
+                     font-weight:normal;
+                     font-style:normal;
+                     background-color:transparent;
+                     text-decoration:none;
+                     letter-spacing:0.00em;
+                     font-stretch:normal;
+                     text-transform:none;
+                     font-kerning:none;
+                     counter-reset:S_1 1;
+}
+p.bullet_step_next {
+                    margin-left:30.02pt;
+                    margin-right:0.00pt;
+                    margin-top:9.00pt;
+                    margin-bottom:0.00pt;
+                    text-align:left;
+                    text-indent:0.72pt;
+                    line-height:12.00pt;
+                    word-spacing:0.25em;
+                    hyphens:auto;
+                    direction:inherit;
+                    color:#000000;
+                    font-family:"Times New Roman";
+                    font-size:10.50pt;
+                    font-weight:normal;
+                    font-style:normal;
+                    background-color:transparent;
+                    text-decoration:none;
+                    letter-spacing:0.00em;
+                    font-stretch:normal;
+                    text-transform:none;
+                    font-kerning:none;
+                    counter-increment:S_1;
+}
+p.bullet_sub {
+              margin-left:45.00pt;
+              margin-right:0.00pt;
+              margin-top:5.00pt;
+              margin-bottom:0.00pt;
+              text-align:left;
+              text-indent:-13.03pt;
+              line-height:10.50pt;
+              word-spacing:0.25em;
+              hyphens:none;
+              direction:inherit;
+              color:#000000;
+              font-family:"Times New Roman";
+              font-size:10.50pt;
+              font-weight:normal;
+              font-style:normal;
+              background-color:transparent;
+              text-decoration:none;
+              letter-spacing:0.00em;
+              font-stretch:normal;
+              text-transform:none;
+              font-kerning:none;
+}
+p.callout_head {
+                margin-left:0.00pt;
+                margin-right:0.00pt;
+                margin-top:0.00pt;
+                margin-bottom:0.00pt;
+                text-align:center;
+                text-indent:0.00pt;
+                line-height:11.00pt;
+                word-spacing:0.25em;
+                hyphens:auto;
+                direction:inherit;
+                color:#000000;
+                font-family:"Futura Md BT";
+                font-size:9.00pt;
+                font-weight:Bold;
+                font-style:normal;
+                background-color:transparent;
+                text-decoration:none;
+                letter-spacing:0.00em;
+                font-stretch:normal;
+                text-transform:none;
+                font-kerning:normal;
+}
+p.callout_text {
+                margin-left:0.00pt;
+                margin-right:0.00pt;
+                margin-top:0.00pt;
+                margin-bottom:0.00pt;
+                text-align:left;
+                text-indent:0.00pt;
+                line-height:9.50pt;
+                word-spacing:0.25em;
+                hyphens:auto;
+                direction:inherit;
+                color:#000000;
+                font-family:"Times New Roman";
+                font-size:9.00pt;
+                font-weight:normal;
+                font-style:normal;
+                background-color:transparent;
+                text-decoration:none;
+                letter-spacing:0.00em;
+                font-stretch:normal;
+                text-transform:none;
+                font-kerning:normal;
+}
+p.callout_text_cool {
+                     margin-left:0.00pt;
+                     margin-right:0.00pt;
+                     margin-top:0.00pt;
+                     margin-bottom:0.00pt;
+                     text-align:left;
+                     text-indent:0.00pt;
+                     line-height:8.00pt;
+                     word-spacing:0.25em;
+                     hyphens:auto;
+                     direction:inherit;
+                     color:#00ae00;
+                     font-family:"Comic Sans MS";
+                     font-size:8.00pt;
+                     font-weight:normal;
+                     font-style:normal;
+                     background-color:transparent;
+                     text-decoration:none;
+                     letter-spacing:0.00em;
+                     font-stretch:normal;
+                     text-transform:none;
+                     font-kerning:normal;
+}
+p.example1 {
+            margin-left:31.97pt;
+            margin-right:0.00pt;
+            margin-top:9.00pt;
+            margin-bottom:9.00pt;
+            text-align:left;
+            text-indent:0.00pt;
+            line-height:11.00pt;
+            word-spacing:0.25em;
+            hyphens:auto;
+            direction:inherit;
+            color:#000000;
+            font-family:"Courier New";
+            font-size:9.00pt;
+            font-weight:normal;
+            font-style:normal;
+            background-color:transparent;
+            text-decoration:none;
+            letter-spacing:0.00em;
+            font-stretch:normal;
+            text-transform:none;
+            font-kerning:none;
+}
+p.example1_indent {
+                   margin-left:54.00pt;
+                   margin-right:0.00pt;
+                   margin-top:9.00pt;
+                   margin-bottom:9.00pt;
+                   text-align:left;
+                   text-indent:0.00pt;
+                   line-height:11.00pt;
+                   word-spacing:0.25em;
+                   hyphens:auto;
+                   direction:inherit;
+                   color:#000000;
+                   font-family:"Courier New";
+                   font-size:9.00pt;
+                   font-weight:normal;
+                   font-style:normal;
+                   background-color:transparent;
+                   text-decoration:none;
+                   letter-spacing:0.00em;
+                   font-stretch:normal;
+                   text-transform:none;
+                   font-kerning:none;
+}
+p.example2 {
+            margin-left:31.97pt;
+            margin-right:0.00pt;
+            margin-top:0.00pt;
+            margin-bottom:0.00pt;
+            text-align:left;
+            text-indent:0.00pt;
+            line-height:11.00pt;
+            word-spacing:0.25em;
+            hyphens:auto;
+            direction:inherit;
+            color:#000000;
+            font-family:"Courier New";
+            font-size:9.00pt;
+            font-weight:normal;
+            font-style:normal;
+            background-color:transparent;
+            text-decoration:none;
+            letter-spacing:0.00em;
+            font-stretch:normal;
+            text-transform:none;
+            font-kerning:none;
+}
+p.example2_indent {
+                   margin-left:54.00pt;
+                   margin-right:0.00pt;
+                   margin-top:0.00pt;
+                   margin-bottom:0.00pt;
+                   text-align:left;
+                   text-indent:0.00pt;
+                   line-height:11.00pt;
+                   word-spacing:0.25em;
+                   hyphens:auto;
+                   direction:inherit;
+                   color:#000000;
+                   font-family:"Courier New";
+                   font-size:9.00pt;
+                   font-weight:normal;
+                   font-style:normal;
+                   background-color:transparent;
+                   text-decoration:none;
+                   letter-spacing:0.00em;
+                   font-stretch:normal;
+                   text-transform:none;
+                   font-kerning:none;
+}
+p.figure_title {
+                margin-left:24.17pt;
+                margin-right:0.00pt;
+                margin-top:10.00pt;
+                margin-bottom:0.00pt;
+                text-align:center;
+                text-indent:-0.12pt;
+                line-height:11.00pt;
+                word-spacing:0.25em;
+                hyphens:auto;
+                direction:inherit;
+                color:#000000;
+                font-family:"Times New Roman";
+                font-size:11.00pt;
+                font-weight:Bold;
+                font-style:normal;
+                background-color:transparent;
+                text-decoration:none;
+                letter-spacing:0.00em;
+                font-stretch:normal;
+                text-transform:none;
+                font-kerning:none;
+}
+p.footer_Left_ {
+                margin-left:0.00pt;
+                margin-right:0.00pt;
+                margin-top:0.00pt;
+                margin-bottom:0.00pt;
+                text-align:left;
+                text-indent:0.00pt;
+                line-height:11.00pt;
+                word-spacing:0.25em;
+                hyphens:auto;
+                direction:inherit;
+                color:#000000;
+                font-family:"Futura Book";
+                font-size:9.00pt;
+                font-weight:normal;
+                font-style:normal;
+                background-color:transparent;
+                text-decoration:none;
+                letter-spacing:0.00em;
+                font-stretch:normal;
+                text-transform:none;
+                font-kerning:none;
+}
+p.footer_Right_ {
+                 margin-left:0.00pt;
+                 margin-right:0.00pt;
+                 margin-top:0.00pt;
+                 margin-bottom:0.00pt;
+                 text-align:left;
+                 text-indent:0.00pt;
+                 line-height:11.00pt;
+                 word-spacing:0.25em;
+                 hyphens:auto;
+                 direction:inherit;
+                 color:#000000;
+                 font-family:"Futura Book";
+                 font-size:9.00pt;
+                 font-weight:normal;
+                 font-style:normal;
+                 background-color:transparent;
+                 text-decoration:none;
+                 letter-spacing:0.00em;
+                 font-stretch:normal;
+                 text-transform:none;
+                 font-kerning:none;
+}
+p.header_Right_ {
+                 margin-left:0.00pt;
+                 margin-right:0.00pt;
+                 margin-top:0.00pt;
+                 margin-bottom:0.00pt;
+                 text-align:left;
+                 text-indent:0.00pt;
+                 line-height:9.00pt;
+                 word-spacing:0.25em;
+                 hyphens:auto;
+                 direction:inherit;
+                 color:#000000;
+                 font-family:"Futura Book";
+                 font-size:9.00pt;
+                 font-weight:normal;
+                 font-style:normal;
+                 background-color:transparent;
+                 text-decoration:none;
+                 letter-spacing:0.00em;
+                 font-stretch:normal;
+                 text-transform:none;
+                 font-kerning:none;
+}
+p.heading1_about {
+                  margin-left:0.00pt;
+                  margin-right:0.00pt;
+                  margin-top:28.00pt;
+                  margin-bottom:12.00pt;
+                  text-align:left;
+                  text-indent:0.00pt;
+                  line-height:18.00pt;
+                  word-spacing:0.25em;
+                  hyphens:auto;
+                  direction:inherit;
+                  color:#000000;
+                  font-family:"Futura Book";
+                  font-size:18.00pt;
+                  font-weight:Bold;
+                  font-style:normal;
+                  background-color:transparent;
+                  text-decoration:none;
+                  letter-spacing:0.00em;
+                  font-stretch:normal;
+                  text-transform:none;
+                  font-kerning:normal;
+}
+p.heading2A {
+             margin-left:0.00pt;
+             margin-right:0.00pt;
+             margin-top:20.00pt;
+             margin-bottom:9.00pt;
+             text-align:left;
+             text-indent:0.00pt;
+             line-height:14.00pt;
+             word-spacing:0.25em;
+             hyphens:auto;
+             direction:inherit;
+             color:#000000;
+             font-family:"Futura Book";
+             font-size:14.00pt;
+             font-weight:Bold;
+             font-style:normal;
+             background-color:transparent;
+             text-decoration:none;
+             letter-spacing:0.00em;
+             font-stretch:normal;
+             text-transform:none;
+             font-kerning:normal;
+             counter-increment:L_1;
+}
+p.heading2A_first {
+                   margin-left:0.00pt;
+                   margin-right:0.00pt;
+                   margin-top:20.00pt;
+                   margin-bottom:9.00pt;
+                   text-align:left;
+                   text-indent:0.00pt;
+                   line-height:14.00pt;
+                   word-spacing:0.25em;
+                   hyphens:auto;
+                   direction:inherit;
+                   color:#000000;
+                   font-family:"Futura Book";
+                   font-size:14.00pt;
+                   font-weight:Bold;
+                   font-style:normal;
+                   background-color:transparent;
+                   text-decoration:none;
+                   letter-spacing:0.00em;
+                   font-stretch:normal;
+                   text-transform:none;
+                   font-kerning:normal;
+}
+p.heading3 {
+            margin-left:0.00pt;
+            margin-right:0.00pt;
+            margin-top:14.00pt;
+            margin-bottom:8.00pt;
+            text-align:left;
+            text-indent:0.00pt;
+            line-height:12.00pt;
+            word-spacing:0.25em;
+            hyphens:auto;
+            direction:inherit;
+            color:#000000;
+            font-family:"Futura Book";
+            font-size:12.00pt;
+            font-weight:Bold;
+            font-style:normal;
+            background-color:transparent;
+            text-decoration:none;
+            letter-spacing:0.00em;
+            font-stretch:normal;
+            text-transform:none;
+            font-kerning:normal;
+}
+p.heading4 {
+            margin-left:18.00pt;
+            margin-right:0.00pt;
+            margin-top:12.00pt;
+            margin-bottom:8.00pt;
+            text-align:left;
+            text-indent:0.00pt;
+            line-height:11.00pt;
+            word-spacing:0.25em;
+            hyphens:auto;
+            direction:inherit;
+            color:#000000;
+            font-family:"Futura Book";
+            font-size:11.00pt;
+            font-weight:Bold;
+            font-style:normal;
+            background-color:transparent;
+            text-decoration:none;
+            letter-spacing:0.00em;
+            font-stretch:normal;
+            text-transform:none;
+            font-kerning:normal;
+}
+p.heading5 {
+            margin-left:51.75pt;
+            margin-right:0.00pt;
+            margin-top:12.00pt;
+            margin-bottom:8.00pt;
+            text-align:left;
+            text-indent:0.00pt;
+            line-height:11.00pt;
+            word-spacing:0.25em;
+            hyphens:auto;
+            direction:inherit;
+            color:#000000;
+            font-family:"Times New Roman";
+            font-size:11.00pt;
+            font-weight:Bold;
+            font-style:normal;
+            background-color:transparent;
+            text-decoration:none;
+            letter-spacing:0.00em;
+            font-stretch:normal;
+            text-transform:none;
+            font-kerning:normal;
+}
+p.indented1 {
+             margin-left:31.97pt;
+             margin-right:0.00pt;
+             margin-top:8.50pt;
+             margin-bottom:3.00pt;
+             text-align:left;
+             text-indent:0.00pt;
+             line-height:12.00pt;
+             word-spacing:0.25em;
+             hyphens:auto;
+             direction:inherit;
+             color:#000000;
+             font-family:"Times New Roman";
+             font-size:10.50pt;
+             font-weight:normal;
+             font-style:normal;
+             background-color:transparent;
+             text-decoration:none;
+             letter-spacing:0.00em;
+             font-stretch:normal;
+             text-transform:none;
+             font-kerning:none;
+}
+p.indented2 {
+             margin-left:31.97pt;
+             margin-right:0.00pt;
+             margin-top:3.00pt;
+             margin-bottom:3.00pt;
+             text-align:left;
+             text-indent:0.00pt;
+             line-height:10.50pt;
+             word-spacing:0.25em;
+             hyphens:auto;
+             direction:inherit;
+             color:#000000;
+             font-family:"Times New Roman";
+             font-size:10.50pt;
+             font-weight:Bold;
+             font-style:normal;
+             background-color:transparent;
+             text-decoration:none;
+             letter-spacing:0.00em;
+             font-stretch:normal;
+             text-transform:none;
+             font-kerning:none;
+}
+p.note {
+        margin-left:18.00pt;
+        margin-right:0.00pt;
+        margin-top:10.00pt;
+        margin-bottom:10.00pt;
+        text-align:left;
+        text-indent:0.00pt;
+        line-height:10.50pt;
+        word-spacing:0.25em;
+        hyphens:auto;
+        direction:inherit;
+        color:#000000;
+        font-family:"Times New Roman";
+        font-size:10.50pt;
+        font-weight:Bold;
+        font-style:normal;
+        background-color:transparent;
+        text-decoration:none;
+        letter-spacing:0.00em;
+        font-stretch:normal;
+        text-transform:none;
+        font-kerning:none;
+}
+p.note_text {
+             margin-left:18.00pt;
+             margin-right:0.00pt;
+             margin-top:6.00pt;
+             margin-bottom:10.00pt;
+             text-align:left;
+             text-indent:0.00pt;
+             line-height:12.00pt;
+             word-spacing:0.25em;
+             hyphens:auto;
+             direction:inherit;
+             color:#000000;
+             font-family:"Times New Roman";
+             font-size:10.50pt;
+             font-weight:normal;
+             font-style:normal;
+             background-color:transparent;
+             text-decoration:none;
+             letter-spacing:0.00em;
+             font-stretch:normal;
+             text-transform:none;
+             font-kerning:none;
+}
+p.numbered1___cell {
+                    margin-left:14.40pt;
+                    margin-right:0.00pt;
+                    margin-top:1.00pt;
+                    margin-bottom:1.00pt;
+                    text-align:left;
+                    text-indent:-14.40pt;
+                    line-height:10.50pt;
+                    word-spacing:0.25em;
+                    hyphens:auto;
+                    direction:inherit;
+                    color:#000000;
+                    font-family:"Times New Roman";
+                    font-size:10.50pt;
+                    font-weight:normal;
+                    font-style:normal;
+                    background-color:transparent;
+                    text-decoration:none;
+                    letter-spacing:0.00em;
+                    font-stretch:normal;
+                    text-transform:none;
+                    font-kerning:none;
+                    counter-reset:S_1 1;
+}
+p.numbered___cell {
+                   margin-left:14.40pt;
+                   margin-right:0.00pt;
+                   margin-top:1.00pt;
+                   margin-bottom:1.00pt;
+                   text-align:left;
+                   text-indent:-14.40pt;
+                   line-height:10.50pt;
+                   word-spacing:0.25em;
+                   hyphens:auto;
+                   direction:inherit;
+                   color:#000000;
+                   font-family:"Times New Roman";
+                   font-size:10.50pt;
+                   font-weight:normal;
+                   font-style:normal;
+                   background-color:transparent;
+                   text-decoration:none;
+                   letter-spacing:0.00em;
+                   font-stretch:normal;
+                   text-transform:none;
+                   font-kerning:none;
+                   counter-increment:S_1;
+}
+p.related_commands {
+                    margin-left:18.00pt;
+                    margin-right:0.00pt;
+                    margin-top:6.00pt;
+                    margin-bottom:0.00pt;
+                    text-align:left;
+                    text-indent:0.00pt;
+                    line-height:10.50pt;
+                    word-spacing:0.25em;
+                    hyphens:auto;
+                    direction:inherit;
+                    color:#000000;
+                    font-family:"Times New Roman";
+                    font-size:10.50pt;
+                    font-weight:Bold;
+                    font-style:normal;
+                    background-color:transparent;
+                    text-decoration:none;
+                    letter-spacing:0.00em;
+                    font-stretch:normal;
+                    text-transform:none;
+                    font-kerning:none;
+}
+p.screen {
+          margin-left:18.00pt;
+          margin-right:0.00pt;
+          margin-top:3.00pt;
+          margin-bottom:0.00pt;
+          text-align:left;
+          text-indent:0.00pt;
+          line-height:11.00pt;
+          word-spacing:0.25em;
+          hyphens:auto;
+          direction:inherit;
+          color:#000000;
+          font-family:"Courier New";
+          font-size:9.00pt;
+          font-weight:normal;
+          font-style:normal;
+          background-color:transparent;
+          text-decoration:none;
+          letter-spacing:0.00em;
+          font-stretch:normal;
+          text-transform:none;
+          font-kerning:none;
+}
+p.screen2 {
+           margin-left:18.00pt;
+           margin-right:0.00pt;
+           margin-top:0.00pt;
+           margin-bottom:0.00pt;
+           text-align:left;
+           text-indent:0.00pt;
+           line-height:11.00pt;
+           word-spacing:0.25em;
+           hyphens:auto;
+           direction:inherit;
+           color:#000000;
+           font-family:"Courier New";
+           font-size:9.00pt;
+           font-weight:normal;
+           font-style:normal;
+           background-color:transparent;
+           text-decoration:none;
+           letter-spacing:0.00em;
+           font-stretch:normal;
+           text-transform:none;
+           font-kerning:none;
+}
+p.screen2_line {
+                margin-left:18.00pt;
+                margin-right:0.00pt;
+                margin-top:0.00pt;
+                margin-bottom:0.00pt;
+                text-align:left;
+                text-indent:0.00pt;
+                line-height:11.00pt;
+                word-spacing:0.25em;
+                hyphens:auto;
+                direction:inherit;
+                color:#000000;
+                font-family:"Times New Roman";
+                font-size:9.00pt;
+                font-weight:normal;
+                font-style:normal;
+                background-color:transparent;
+                text-decoration:none;
+                letter-spacing:0.00em;
+                font-stretch:normal;
+                text-transform:none;
+                font-kerning:none;
+}
+p.step_first {
+              margin-left:18.00pt;
+              margin-right:0.00pt;
+              margin-top:9.00pt;
+              margin-bottom:3.00pt;
+              text-align:left;
+              text-indent:0.00pt;
+              line-height:12.00pt;
+              word-spacing:0.25em;
+              hyphens:auto;
+              direction:inherit;
+              color:#000000;
+              font-family:"Times New Roman";
+              font-size:10.50pt;
+              font-weight:normal;
+              font-style:normal;
+              background-color:transparent;
+              text-decoration:none;
+              letter-spacing:0.00em;
+              font-stretch:normal;
+              text-transform:none;
+              font-kerning:none;
+              counter-reset:S_1 1;
+}
+p.step_first_a_ {
+                 margin-left:36.00pt;
+                 margin-right:0.00pt;
+                 margin-top:9.00pt;
+                 margin-bottom:3.00pt;
+                 text-align:left;
+                 text-indent:-18.00pt;
+                 line-height:10.50pt;
+                 word-spacing:0.25em;
+                 hyphens:auto;
+                 direction:inherit;
+                 color:#000000;
+                 font-family:"Times New Roman";
+                 font-size:10.50pt;
+                 font-weight:normal;
+                 font-style:normal;
+                 background-color:transparent;
+                 text-decoration:none;
+                 letter-spacing:0.00em;
+                 font-stretch:normal;
+                 text-transform:none;
+                 font-kerning:none;
+                 counter-reset:B_1 1;
+}
+p.step_next {
+             margin-left:18.00pt;
+             margin-right:0.00pt;
+             margin-top:9.00pt;
+             margin-bottom:0.00pt;
+             text-align:left;
+             text-indent:0.00pt;
+             line-height:12.00pt;
+             word-spacing:0.25em;
+             hyphens:auto;
+             direction:inherit;
+             color:#000000;
+             font-family:"Times New Roman";
+             font-size:10.50pt;
+             font-weight:normal;
+             font-style:normal;
+             background-color:transparent;
+             text-decoration:none;
+             letter-spacing:0.00em;
+             font-stretch:normal;
+             text-transform:none;
+             font-kerning:none;
+             counter-increment:S_1;
+}
+p.step_next_art {
+                 margin-left:15.84pt;
+                 margin-right:0.00pt;
+                 margin-top:5.00pt;
+                 margin-bottom:3.00pt;
+                 text-align:justify;
+                 text-indent:-15.84pt;
+                 line-height:9.00pt;
+                 word-spacing:0.25em;
+                 hyphens:auto;
+                 direction:inherit;
+                 color:#000000;
+                 font-family:Garamond;
+                 font-size:9.00pt;
+                 font-weight:normal;
+                 font-style:normal;
+                 background-color:transparent;
+                 text-decoration:none;
+                 letter-spacing:0.00em;
+                 font-stretch:normal;
+                 text-transform:none;
+                 font-kerning:none;
+                 counter-increment:S_1;
+}
+p.step_next_bc_ {
+                 margin-left:18.00pt;
+                 margin-right:0.00pt;
+                 margin-top:9.00pt;
+                 margin-bottom:3.00pt;
+                 text-align:left;
+                 text-indent:0.00pt;
+                 line-height:12.00pt;
+                 word-spacing:0.25em;
+                 hyphens:auto;
+                 direction:inherit;
+                 color:#000000;
+                 font-family:"Times New Roman";
+                 font-size:10.50pt;
+                 font-weight:normal;
+                 font-style:normal;
+                 background-color:transparent;
+                 text-decoration:none;
+                 letter-spacing:0.00em;
+                 font-stretch:normal;
+                 text-transform:none;
+                 font-kerning:none;
+                 counter-increment:B_1;
+}
+p.table_column {
+                margin-left:0.00pt;
+                margin-right:0.00pt;
+                margin-top:0.00pt;
+                margin-bottom:0.00pt;
+                text-align:justify;
+                text-indent:0.00pt;
+                line-height:10.00pt;
+                word-spacing:0.25em;
+                hyphens:auto;
+                direction:inherit;
+                color:#000000;
+                font-family:Garamond;
+                font-size:10.00pt;
+                font-weight:normal;
+                font-style:normal;
+                background-color:transparent;
+                text-decoration:none;
+                letter-spacing:0.00em;
+                font-stretch:normal;
+                text-transform:none;
+                font-kerning:none;
+}
+p.table_heads {
+               margin-left:0.00pt;
+               margin-right:0.00pt;
+               margin-top:12.00pt;
+               margin-bottom:22.00pt;
+               text-align:left;
+               text-indent:0.00pt;
+               line-height:11.00pt;
+               word-spacing:0.25em;
+               hyphens:auto;
+               direction:inherit;
+               color:#000000;
+               font-family:"Times New Roman";
+               font-size:11.00pt;
+               font-weight:Bold;
+               font-style:normal;
+               background-color:transparent;
+               text-decoration:none;
+               letter-spacing:0.00em;
+               font-stretch:normal;
+               text-transform:none;
+               font-kerning:none;
+}
+p.table_row {
+             margin-left:189.00pt;
+             margin-right:45.00pt;
+             margin-top:8.00pt;
+             margin-bottom:0.00pt;
+             text-align:left;
+             text-indent:-72.00pt;
+             line-height:10.00pt;
+             word-spacing:0.25em;
+             hyphens:auto;
+             direction:inherit;
+             color:#000000;
+             font-family:Garamond;
+             font-size:10.00pt;
+             font-weight:normal;
+             font-style:normal;
+             background-color:transparent;
+             text-decoration:none;
+             letter-spacing:0.00em;
+             font-stretch:normal;
+             text-transform:none;
+             font-kerning:none;
+}
+p.table_title {
+               margin-left:0.00pt;
+               margin-right:0.00pt;
+               margin-top:12.00pt;
+               margin-bottom:0.00pt;
+               text-align:left;
+               text-indent:0.00pt;
+               line-height:11.00pt;
+               word-spacing:0.25em;
+               hyphens:auto;
+               direction:inherit;
+               color:#000000;
+               font-family:"Times New Roman";
+               font-size:11.00pt;
+               font-weight:Bold;
+               font-style:Italic;
+               background-color:transparent;
+               text-decoration:none;
+               letter-spacing:0.00em;
+               font-stretch:normal;
+               text-transform:none;
+               font-kerning:none;
+}
+p.text {
+        margin-left:18.00pt;
+        margin-right:0.00pt;
+        margin-top:8.50pt;
+        margin-bottom:0.00pt;
+        text-align:left;
+        text-indent:0.00pt;
+        line-height:12.00pt;
+        word-spacing:0.25em;
+        hyphens:auto;
+        direction:inherit;
+        color:#000000;
+        font-family:"Times New Roman";
+        font-size:10.50pt;
+        font-weight:normal;
+        font-style:normal;
+        background-color:transparent;
+        text-decoration:none;
+        letter-spacing:0.00em;
+        font-stretch:normal;
+        text-transform:none;
+        font-kerning:none;
+}
+p.text_1st_line {
+                 margin-left:18.00pt;
+                 margin-right:0.00pt;
+                 margin-top:12.00pt;
+                 margin-bottom:0.00pt;
+                 text-align:left;
+                 text-indent:0.00pt;
+                 line-height:10.50pt;
+                 word-spacing:0.25em;
+                 hyphens:auto;
+                 direction:inherit;
+                 color:#000000;
+                 font-family:"Times New Roman";
+                 font-size:10.50pt;
+                 font-weight:normal;
+                 font-style:normal;
+                 background-color:transparent;
+                 text-decoration:none;
+                 letter-spacing:0.00em;
+                 font-stretch:normal;
+                 text-transform:none;
+                 font-kerning:none;
+}
+p.text_line {
+             margin-left:18.00pt;
+             margin-right:0.00pt;
+             margin-top:0.00pt;
+             margin-bottom:0.00pt;
+             text-align:left;
+             text-indent:0.00pt;
+             line-height:12.50pt;
+             word-spacing:0.25em;
+             hyphens:auto;
+             direction:inherit;
+             color:#000000;
+             font-family:"Times New Roman";
+             font-size:10.50pt;
+             font-weight:normal;
+             font-style:normal;
+             background-color:transparent;
+             text-decoration:none;
+             letter-spacing:0.00em;
+             font-stretch:normal;
+             text-transform:none;
+             font-kerning:none;
+}
+span.Bold {
+           font-weight:Bold;
+}
+span.Bullet_Character {
+                       font-style:normal;
+                       color:#000000;
+                       font-family:"Futura Book";
+                       font-size:10.00pt;
+                       font-weight:Bold;
+                       text-decoration:none;
+                       letter-spacing:0.00em;
+                       font-stretch:normal;
+                       text-transform:none;
+                       font-kerning:normal;
+}
+span.Chapter_Number {
+                     font-style:normal;
+                     color:#ffffff;
+                     font-family:Arial;
+                     font-size:18.00pt;
+                     font-weight:Bold;
+                     text-decoration:none;
+                     letter-spacing:0.00em;
+                     text-transform:none;
+                     font-kerning:normal;
+}
+span.Chapter_Title {
+                    font-style:Italic;
+                    color:#000000;
+                    font-family:Arial;
+                    font-size:24.00pt;
+                    font-weight:normal;
+                    text-decoration:none;
+                    letter-spacing:0.00em;
+                    font-kerning:normal;
+}
+span.Emphasis {
+               font-style:Italic;
+               color:#000000;
+               font-family:"Times New Roman";
+               font-size:10.50pt;
+               font-weight:Bold;
+               text-decoration:none;
+               letter-spacing:0.00em;
+               font-stretch:normal;
+               text-transform:none;
+               font-kerning:none;
+}
+span.EquationVariables {
+                        font-style:Italic;
+}
+span.Futura_Bk_9pt_italic {
+                           font-style:Italic;
+                           color:#000000;
+                           font-family:"Futura Book";
+                           font-size:9.00pt;
+                           font-weight:normal;
+                           text-decoration:none;
+                           letter-spacing:0.00em;
+                           font-stretch:normal;
+                           text-transform:none;
+                           font-kerning:none;
+}
+span.Futura_Bold {
+                  font-style:normal;
+                  color:#000000;
+                  font-family:"Futura Md BT";
+                  font-size:10.00pt;
+                  font-weight:Bold;
+                  text-decoration:none;
+                  letter-spacing:0.00em;
+                  font-stretch:normal;
+                  text-transform:none;
+                  font-kerning:none;
+}
+span.Futura_Bold_11pt {
+                       font-style:normal;
+                       color:#000000;
+                       font-family:"Futura Md BT";
+                       font-size:11.00pt;
+                       font-weight:Bold;
+                       text-decoration:none;
+                       letter-spacing:0.00em;
+                       font-stretch:normal;
+                       text-transform:none;
+                       font-kerning:none;
+}
+span.Ref_Book_Title {
+                     font-style:Italic;
+                     color:#000000;
+                     font-family:"Times New Roman";
+                     font-size:11.00pt;
+                     font-weight:normal;
+                     text-decoration:none;
+                     letter-spacing:0.00em;
+                     text-transform:none;
+                     font-kerning:normal;
+}
+span.Subscript {
+                font-style:normal;
+                color:#000000;
+                font-family:"Times New Roman";
+                font-size:10.00pt;
+                font-weight:Bold;
+                text-decoration:none;
+                letter-spacing:0.00em;
+                font-stretch:normal;
+                text-transform:none;
+                font-kerning:none;
+}
+span.Times_Bold {
+                 font-style:normal;
+                 color:#000000;
+                 font-family:"Times New Roman";
+                 font-size:10.50pt;
+                 font-weight:Bold;
+                 text-decoration:none;
+                 letter-spacing:0.00em;
+                 font-stretch:normal;
+                 text-transform:none;
+                 font-kerning:none;
+}
+span.Times_italics {
+                    font-style:Italic;
+                    color:#000000;
+                    font-family:"Times New Roman";
+                    font-size:10.50pt;
+                    font-weight:normal;
+                    text-decoration:none;
+                    letter-spacing:0.00em;
+                    font-stretch:normal;
+                    text-transform:none;
+                    font-kerning:none;
+}
+span.blue_bold {
+                font-style:normal;
+                color:#0000ff;
+                font-family:"Times New Roman";
+                font-size:10.50pt;
+                font-weight:Bold;
+                text-decoration:none;
+                letter-spacing:0.00em;
+                font-stretch:normal;
+                text-transform:none;
+                font-kerning:none;
+}
+span.blue_bold_sm {
+                   font-style:normal;
+                   color:#0000ff;
+                   font-family:"Times New Roman";
+                   font-size:9.50pt;
+                   font-weight:Bold;
+                   text-decoration:none;
+                   letter-spacing:0.00em;
+                   font-stretch:normal;
+                   text-transform:none;
+                   font-kerning:normal;
+}
+span.blue_text {
+                font-style:normal;
+                color:#0000ff;
+                font-family:"Times New Roman";
+                font-size:10.50pt;
+                font-weight:normal;
+                text-decoration:none;
+                letter-spacing:0.00em;
+                font-stretch:normal;
+                text-transform:none;
+                font-kerning:none;
+}
+span.blue_text_sm {
+                   font-style:normal;
+                   color:#0000ff;
+                   font-family:"Times New Roman";
+                   font-size:9.50pt;
+                   font-weight:normal;
+                   text-decoration:none;
+                   letter-spacing:0.00em;
+                   font-stretch:normal;
+                   text-transform:none;
+                   font-kerning:normal;
+}
+span.bold_num {
+               font-style:normal;
+               color:#000000;
+               font-family:"Times New Roman";
+               font-size:10.50pt;
+               font-weight:Bold;
+               text-decoration:none;
+               letter-spacing:0.00em;
+               font-stretch:normal;
+               text-transform:none;
+               font-kerning:none;
+}
+span.chapter {
+              font-style:Italic;
+              color:#000000;
+              font-family:"Times New Roman";
+              font-size:24.00pt;
+              font-weight:normal;
+              text-decoration:none;
+              letter-spacing:0.00em;
+              font-stretch:normal;
+              font-variant:small-caps;
+              font-kerning:none;
+}
+span.courier {
+              font-style:normal;
+              color:#000000;
+              font-family:"Courier New";
+              font-size:9.00pt;
+              font-weight:normal;
+              text-decoration:none;
+              letter-spacing:0.00em;
+              font-stretch:normal;
+              text-transform:none;
+              font-kerning:none;
+}
+span.index {
+            font-style:normal;
+            color:#000000;
+            font-family:"Times New Roman";
+            font-size:9.00pt;
+            font-weight:Bold;
+            text-decoration:none;
+            letter-spacing:0.00em;
+            font-stretch:normal;
+            text-transform:none;
+            font-kerning:normal;
+}
+span.message {
+              font-style:normal;
+              color:#000000;
+              font-family:"Futura Md BT";
+              font-size:8.00pt;
+              font-weight:Bold;
+              text-decoration:none;
+              letter-spacing:0.00em;
+              font-stretch:normal;
+              text-transform:none;
+              font-kerning:normal;
+}
+span.see_also {
+               font-style:Italic;
+               color:#000000;
+               font-family:"Times New Roman";
+               font-size:9.00pt;
+               font-weight:normal;
+               text-decoration:none;
+               letter-spacing:0.00em;
+               font-stretch:normal;
+               text-transform:none;
+               font-kerning:none;
+}
+span.small_caps__10_ {
+                      font-style:normal;
+                      color:#000000;
+                      font-family:"Times New Roman";
+                      font-size:10.00pt;
+                      font-weight:normal;
+                      text-decoration:none;
+                      letter-spacing:0.00em;
+                      font-stretch:normal;
+                      text-transform:none;
+                      font-kerning:none;
+}
+table.Cmds2_Overview {
+                      margin-top:10.50pt;
+                      margin-left:18.00pt;
+                      margin-bottom:10.50pt;
+                      margin-right:0.00pt;
+                      border-collapse:collapse;
+                      direction:inherit;
+                      border-top-width:0.5pt;
+                      border-top-style:solid;
+                      border-top-color:#000000;
+                      border-bottom-width:0.5pt;
+                      border-bottom-style:solid;
+                      border-bottom-color:#000000;
+                      border-left-width:0;
+                      border-left-style:hidden;
+                      border-left-color:0;
+                      border-right-width:0;
+                      border-right-style:hidden;
+                      border-right-color:0;
+}
+table.Cmds2_Overview caption {
+                              caption-side:initial;
+                              padding:6.00pt;
+}
+table.Cmds2_Overview td {
+                         vertical-align:top;
+}
+table.Cmds2_Overview td , table.Cmds2_Overview th {
+                                                   padding-top:3.00pt;
+                                                   padding-right:0.00pt;
+                                                   padding-left:6.00pt;
+                                                   padding-bottom:3.00pt;
+                                                   border-right-width:0;
+                                                   border-right-style:hidden;
+                                                   border-right-color:0;
+}
+table.Cmds2_Overview thead tr {
+                               border-bottom-width:0;
+                               border-bottom-style:hidden;
+                               border-bottom-color:0;
+}
+table.Cmds2_Overview thead tr:last-child {
+                                          border-bottom-width:0;
+                                          border-bottom-style:hidden;
+                                          border-bottom-color:0;
+}
+table.Cmds2_Overview tr td:nth-child(1) , table.Cmds2_Overview th:nth-child(1) {
+                                                                                border-right-width:0;
+                                                                                border-right-style:hidden;
+                                                                                border-right-color:0;
+}
+table.Cmds2_Overview tbody tr:nth-child(4n) {
+                                             border-bottom-width:0.5pt;
+                                             border-bottom-style:solid;
+                                             border-bottom-color:#000000;
+}
+table.Cmds2_Overview tbody tr {
+                               border-bottom-width:0.5pt;
+                               border-bottom-style:solid;
+                               border-bottom-color:#000000;
+}
+table.Cmds2_Overview tfoot tr {
+                               border-top-width:0;
+                               border-top-style:hidden;
+                               border-top-color:0;
+}
+table.Cmds2_Overview tfoot tr:first-child {
+                                           border-top-width:0;
+                                           border-top-style:hidden;
+                                           border-top-color:0;
+}
+table.Cmds2_Overview thead tr , table.Cmds2_Overview tfoot tr {
+                                                               background-color:#ffffff;
+}
+table.Cmds2_Overview tbody tr:nth-child(4n+1),table.Cmds2_Overview tbody tr:nth-child(4n+2) {
+                                                                                             background-color:#ffffff;
+}
+table.Cmds2_Overview tbody tr:nth-child(4n-0),table.Cmds2_Overview tbody tr:nth-child(4n-1) {
+                                                                                             background-color:#ffffff;
+}
+table.Cmds_Overview {
+                     margin-top:10.50pt;
+                     margin-left:18.00pt;
+                     margin-bottom:10.50pt;
+                     margin-right:0.00pt;
+                     border-collapse:collapse;
+                     direction:inherit;
+                     border-top-width:0.5pt;
+                     border-top-style:solid;
+                     border-top-color:#000000;
+                     border-bottom-width:0.5pt;
+                     border-bottom-style:solid;
+                     border-bottom-color:#000000;
+                     border-left-width:0;
+                     border-left-style:hidden;
+                     border-left-color:0;
+                     border-right-width:0;
+                     border-right-style:hidden;
+                     border-right-color:0;
+}
+table.Cmds_Overview caption {
+                             caption-side:initial;
+                             padding:6.00pt;
+}
+table.Cmds_Overview td {
+                        vertical-align:top;
+}
+table.Cmds_Overview td , table.Cmds_Overview th {
+                                                 padding-top:3.00pt;
+                                                 padding-right:0.00pt;
+                                                 padding-left:6.00pt;
+                                                 padding-bottom:3.00pt;
+                                                 border-right-width:0;
+                                                 border-right-style:hidden;
+                                                 border-right-color:0;
+}
+table.Cmds_Overview thead tr {
+                              border-bottom-width:0;
+                              border-bottom-style:hidden;
+                              border-bottom-color:0;
+}
+table.Cmds_Overview thead tr:last-child {
+                                         border-bottom-width:0;
+                                         border-bottom-style:hidden;
+                                         border-bottom-color:0;
+}
+table.Cmds_Overview tr td:nth-child(1) , table.Cmds_Overview th:nth-child(1) {
+                                                                              border-right-width:0;
+                                                                              border-right-style:hidden;
+                                                                              border-right-color:0;
+}
+table.Cmds_Overview tbody tr:nth-child(4n) {
+                                            border-bottom-width:0.5pt;
+                                            border-bottom-style:solid;
+                                            border-bottom-color:#000000;
+}
+table.Cmds_Overview tbody tr {
+                              border-bottom-width:0.5pt;
+                              border-bottom-style:solid;
+                              border-bottom-color:#000000;
+}
+table.Cmds_Overview tfoot tr {
+                              border-top-width:0;
+                              border-top-style:hidden;
+                              border-top-color:0;
+}
+table.Cmds_Overview tfoot tr:first-child {
+                                          border-top-width:0;
+                                          border-top-style:hidden;
+                                          border-top-color:0;
+}
+table.Cmds_Overview thead tr , table.Cmds_Overview tfoot tr {
+                                                             background-color:#ffffff;
+}
+table.Cmds_Overview tbody tr:nth-child(4n+1),table.Cmds_Overview tbody tr:nth-child(4n+2) {
+                                                                                           background-color:#ffffff;
+}
+table.Cmds_Overview tbody tr:nth-child(4n-0),table.Cmds_Overview tbody tr:nth-child(4n-1) {
+                                                                                           background-color:#ffffff;
+}
+table.Defaults_Table {
+                      margin-top:8.50pt;
+                      margin-left:18.00pt;
+                      margin-bottom:8.50pt;
+                      margin-right:0.00pt;
+                      border-collapse:collapse;
+                      direction:inherit;
+                      border-top-width:0.5pt;
+                      border-top-style:solid;
+                      border-top-color:#000000;
+                      border-bottom-width:0.5pt;
+                      border-bottom-style:solid;
+                      border-bottom-color:#000000;
+                      border-left-width:0;
+                      border-left-style:hidden;
+                      border-left-color:0;
+                      border-right-width:0;
+                      border-right-style:hidden;
+                      border-right-color:0;
+}
+table.Defaults_Table caption {
+                              caption-side:initial;
+                              padding:6.00pt;
+}
+table.Defaults_Table td {
+                         vertical-align:top;
+}
+table.Defaults_Table td , table.Defaults_Table th {
+                                                   padding-top:4.00pt;
+                                                   padding-right:3.00pt;
+                                                   padding-left:3.00pt;
+                                                   padding-bottom:3.00pt;
+                                                   border-right-width:0;
+                                                   border-right-style:hidden;
+                                                   border-right-color:0;
+}
+table.Defaults_Table thead tr {
+                               border-bottom-width:0.5pt;
+                               border-bottom-style:solid;
+                               border-bottom-color:#000000;
+}
+table.Defaults_Table thead tr:last-child {
+                                          border-bottom-width:2pt;
+                                          border-bottom-style:solid;
+                                          border-bottom-color:#000000;
+}
+table.Defaults_Table tr td:nth-child(1) , table.Defaults_Table th:nth-child(1) {
+                                                                                border-right-width:0;
+                                                                                border-right-style:hidden;
+                                                                                border-right-color:0;
+}
+table.Defaults_Table tbody tr:nth-child(4n) {
+                                             border-bottom-width:0.5pt;
+                                             border-bottom-style:solid;
+                                             border-bottom-color:#000000;
+}
+table.Defaults_Table tbody tr {
+                               border-bottom-width:0.5pt;
+                               border-bottom-style:solid;
+                               border-bottom-color:#000000;
+}
+table.Defaults_Table tfoot tr {
+                               border-top-width:0.5pt;
+                               border-top-style:solid;
+                               border-top-color:#000000;
+}
+table.Defaults_Table tfoot tr:first-child {
+                                           border-top-width:2pt;
+                                           border-top-style:solid;
+                                           border-top-color:#000000;
+}
+table.Defaults_Table thead tr , table.Defaults_Table tfoot tr {
+                                                               background-color:#ffffff;
+}
+table.Defaults_Table tbody tr:nth-child(4n+1),table.Defaults_Table tbody tr:nth-child(4n+2) {
+                                                                                             background-color:#ffffff;
+}
+table.Defaults_Table tbody tr:nth-child(4n-0),table.Defaults_Table tbody tr:nth-child(4n-1) {
+                                                                                             background-color:#ffffff;
+}
+table.FIELDDESCRIPTION {
+                        margin-top:0.00pt;
+                        margin-left:0.00pt;
+                        margin-bottom:12.00pt;
+                        margin-right:0.00pt;
+                        border-collapse:collapse;
+                        direction:inherit;
+                        border-top-width:0.25pt;
+                        border-top-style:solid;
+                        border-top-color:#000000;
+                        border-bottom-width:0.25pt;
+                        border-bottom-style:solid;
+                        border-bottom-color:#000000;
+                        border-left-width:0.25pt;
+                        border-left-style:solid;
+                        border-left-color:#000000;
+                        border-right-width:0.25pt;
+                        border-right-style:solid;
+                        border-right-color:#000000;
+}
+table.FIELDDESCRIPTION caption {
+                                caption-side:initial;
+                                padding:6.00pt;
+}
+table.FIELDDESCRIPTION td {
+                           vertical-align:top;
+}
+table.FIELDDESCRIPTION td , table.FIELDDESCRIPTION th {
+                                                       padding-top:6.00pt;
+                                                       padding-right:6.00pt;
+                                                       padding-left:6.00pt;
+                                                       padding-bottom:4.00pt;
+                                                       border-right-width:0.25pt;
+                                                       border-right-style:solid;
+                                                       border-right-color:#000000;
+}
+table.FIELDDESCRIPTION thead tr {
+                                 border-bottom-width:0.25pt;
+                                 border-bottom-style:solid;
+                                 border-bottom-color:#000000;
+}
+table.FIELDDESCRIPTION thead tr:last-child {
+                                            border-bottom-width:0.25pt;
+                                            border-bottom-style:solid;
+                                            border-bottom-color:#000000;
+}
+table.FIELDDESCRIPTION tr td:nth-child(1) , table.FIELDDESCRIPTION th:nth-child(1) {
+                                                                                    border-right-width:0.25pt;
+                                                                                    border-right-style:solid;
+                                                                                    border-right-color:#000000;
+}
+table.FIELDDESCRIPTION tbody tr:nth-child(4n) {
+                                               border-bottom-width:0.25pt;
+                                               border-bottom-style:solid;
+                                               border-bottom-color:#000000;
+}
+table.FIELDDESCRIPTION tbody tr {
+                                 border-bottom-width:0.25pt;
+                                 border-bottom-style:solid;
+                                 border-bottom-color:#000000;
+}
+table.FIELDDESCRIPTION tfoot tr {
+                                 border-top-width:0.25pt;
+                                 border-top-style:solid;
+                                 border-top-color:#000000;
+}
+table.FIELDDESCRIPTION tfoot tr:first-child {
+                                             border-top-width:0.25pt;
+                                             border-top-style:solid;
+                                             border-top-color:#000000;
+}
+table.FIELDDESCRIPTION thead tr , table.FIELDDESCRIPTION tfoot tr {
+                                                                   background-color:#e5e5e5;
+}
+table.FIELDDESCRIPTION tbody tr:nth-child(4n+1),table.FIELDDESCRIPTION tbody tr:nth-child(4n+2) {
+                                                                                                 background-color:#ffffff;
+}
+table.FIELDDESCRIPTION tbody tr:nth-child(4n-0),table.FIELDDESCRIPTION tbody tr:nth-child(4n-1) {
+                                                                                                 background-color:#ffffff;
+}
+table.Format_A {
+                margin-top:12.00pt;
+                margin-left:0.00pt;
+                margin-bottom:12.00pt;
+                margin-right:0.00pt;
+                border-collapse:collapse;
+                direction:inherit;
+                border-top-width:0.5pt;
+                border-top-style:solid;
+                border-top-color:#000000;
+                border-bottom-width:0.5pt;
+                border-bottom-style:solid;
+                border-bottom-color:#000000;
+                border-left-width:0.5pt;
+                border-left-style:solid;
+                border-left-color:#000000;
+                border-right-width:0.5pt;
+                border-right-style:solid;
+                border-right-color:#000000;
+}
+table.Format_A caption {
+                        caption-side:top;
+                        padding:6.00pt;
+}
+table.Format_A td {
+                   vertical-align:top;
+}
+table.Format_A td , table.Format_A th {
+                                       padding-top:6.00pt;
+                                       padding-right:6.00pt;
+                                       padding-left:6.00pt;
+                                       padding-bottom:4.00pt;
+                                       border-right-width:0.5pt;
+                                       border-right-style:solid;
+                                       border-right-color:#000000;
+}
+table.Format_A thead tr {
+                         border-bottom-width:0.5pt;
+                         border-bottom-style:solid;
+                         border-bottom-color:#000000;
+}
+table.Format_A thead tr:last-child {
+                                    border-bottom-width:2.5pt;
+                                    border-bottom-style:double;
+                                    border-bottom-color:#000000;
+}
+table.Format_A tr td:nth-child(1) , table.Format_A th:nth-child(1) {
+                                                                    border-right-width:0.5pt;
+                                                                    border-right-style:solid;
+                                                                    border-right-color:#000000;
+}
+table.Format_A tbody tr:nth-child(4n) {
+                                       border-bottom-width:0.5pt;
+                                       border-bottom-style:solid;
+                                       border-bottom-color:#000000;
+}
+table.Format_A tbody tr {
+                         border-bottom-width:0.5pt;
+                         border-bottom-style:solid;
+                         border-bottom-color:#000000;
+}
+table.Format_A tfoot tr {
+                         border-top-width:0.5pt;
+                         border-top-style:solid;
+                         border-top-color:#000000;
+}
+table.Format_A tfoot tr:first-child {
+                                     border-top-width:2.5pt;
+                                     border-top-style:double;
+                                     border-top-color:#000000;
+}
+table.Format_A thead tr , table.Format_A tfoot tr {
+                                                   background-color:#ffffff;
+}
+table.Format_A tbody tr:nth-child(4n+1),table.Format_A tbody tr:nth-child(4n+2) {
+                                                                                 background-color:#ffffff;
+}
+table.Format_A tbody tr:nth-child(4n-0),table.Format_A tbody tr:nth-child(4n-1) {
+                                                                                 background-color:#ffffff;
+}
+table.Format_B {
+                margin-top:12.00pt;
+                margin-left:0.00pt;
+                margin-bottom:12.00pt;
+                margin-right:0.00pt;
+                border-collapse:collapse;
+                direction:inherit;
+                border-top-width:2pt;
+                border-top-style:solid;
+                border-top-color:#000000;
+                border-bottom-width:0.5pt;
+                border-bottom-style:solid;
+                border-bottom-color:#000000;
+                border-left-width:0;
+                border-left-style:hidden;
+                border-left-color:0;
+                border-right-width:0;
+                border-right-style:hidden;
+                border-right-color:0;
+}
+table.Format_B caption {
+                        caption-side:top;
+                        padding:6.00pt;
+}
+table.Format_B td {
+                   vertical-align:top;
+}
+table.Format_B td , table.Format_B th {
+                                       padding-top:6.00pt;
+                                       padding-right:6.00pt;
+                                       padding-left:6.00pt;
+                                       padding-bottom:4.00pt;
+                                       border-right-width:0.5pt;
+                                       border-right-style:solid;
+                                       border-right-color:#000000;
+}
+table.Format_B thead tr {
+                         border-bottom-width:0.5pt;
+                         border-bottom-style:solid;
+                         border-bottom-color:#000000;
+}
+table.Format_B thead tr:last-child {
+                                    border-bottom-width:2pt;
+                                    border-bottom-style:solid;
+                                    border-bottom-color:#000000;
+}
+table.Format_B tr td:nth-child(1) , table.Format_B th:nth-child(1) {
+                                                                    border-right-width:0.5pt;
+                                                                    border-right-style:solid;
+                                                                    border-right-color:#000000;
+}
+table.Format_B tbody tr:nth-child(4n) {
+                                       border-bottom-width:0.5pt;
+                                       border-bottom-style:solid;
+                                       border-bottom-color:#000000;
+}
+table.Format_B tbody tr {
+                         border-bottom-width:0.5pt;
+                         border-bottom-style:solid;
+                         border-bottom-color:#000000;
+}
+table.Format_B tfoot tr {
+                         border-top-width:0.5pt;
+                         border-top-style:solid;
+                         border-top-color:#000000;
+}
+table.Format_B tfoot tr:first-child {
+                                     border-top-width:2pt;
+                                     border-top-style:solid;
+                                     border-top-color:#000000;
+}
+table.Format_B thead tr , table.Format_B tfoot tr {
+                                                   background-color:#ffffff;
+}
+table.Format_B tbody tr:nth-child(4n+1),table.Format_B tbody tr:nth-child(4n+2) {
+                                                                                 background-color:#ffffff;
+}
+table.Format_B tbody tr:nth-child(4n-0),table.Format_B tbody tr:nth-child(4n-1) {
+                                                                                 background-color:#ffffff;
+}
+table.Note {
+            margin-top:10.50pt;
+            margin-left:18.00pt;
+            margin-bottom:10.50pt;
+            margin-right:0.00pt;
+            border-collapse:collapse;
+            direction:inherit;
+            border-top-width:0.5pt;
+            border-top-style:solid;
+            border-top-color:#000000;
+            border-bottom-width:0.5pt;
+            border-bottom-style:solid;
+            border-bottom-color:#000000;
+            border-left-width:0;
+            border-left-style:hidden;
+            border-left-color:0;
+            border-right-width:0;
+            border-right-style:hidden;
+            border-right-color:0;
+}
+table.Note caption {
+                    caption-side:initial;
+                    padding:6.00pt;
+}
+table.Note td {
+               vertical-align:top;
+}
+table.Note td , table.Note th {
+                               padding-top:3.00pt;
+                               padding-right:0.00pt;
+                               padding-left:0.00pt;
+                               padding-bottom:3.00pt;
+                               border-right-width:0;
+                               border-right-style:hidden;
+                               border-right-color:0;
+}
+table.Note thead tr {
+                     border-bottom-width:0;
+                     border-bottom-style:hidden;
+                     border-bottom-color:0;
+}
+table.Note thead tr:last-child {
+                                border-bottom-width:0;
+                                border-bottom-style:hidden;
+                                border-bottom-color:0;
+}
+table.Note tr td:nth-child(1) , table.Note th:nth-child(1) {
+                                                            border-right-width:0;
+                                                            border-right-style:hidden;
+                                                            border-right-color:0;
+}
+table.Note tbody tr:nth-child(4n) {
+                                   border-bottom-width:0.5pt;
+                                   border-bottom-style:solid;
+                                   border-bottom-color:#000000;
+}
+table.Note tbody tr {
+                     border-bottom-width:0.5pt;
+                     border-bottom-style:solid;
+                     border-bottom-color:#000000;
+}
+table.Note tfoot tr {
+                     border-top-width:0;
+                     border-top-style:hidden;
+                     border-top-color:0;
+}
+table.Note tfoot tr:first-child {
+                                 border-top-width:0;
+                                 border-top-style:hidden;
+                                 border-top-color:0;
+}
+table.Note thead tr , table.Note tfoot tr {
+                                           background-color:#ffffff;
+}
+table.Note tbody tr:nth-child(4n+1),table.Note tbody tr:nth-child(4n+2) {
+                                                                         background-color:#ffffff;
+}
+table.Note tbody tr:nth-child(4n-0),table.Note tbody tr:nth-child(4n-1) {
+                                                                         background-color:#ffffff;
+}
+table.Output_Fields {
+                     margin-top:10.50pt;
+                     margin-left:18.00pt;
+                     margin-bottom:10.50pt;
+                     margin-right:0.00pt;
+                     border-collapse:collapse;
+                     direction:inherit;
+                     border-top-width:0.5pt;
+                     border-top-style:solid;
+                     border-top-color:#000000;
+                     border-bottom-width:0.5pt;
+                     border-bottom-style:solid;
+                     border-bottom-color:#000000;
+                     border-left-width:0;
+                     border-left-style:hidden;
+                     border-left-color:0;
+                     border-right-width:0;
+                     border-right-style:hidden;
+                     border-right-color:0;
+}
+table.Output_Fields caption {
+                             caption-side:top;
+                             padding:3.00pt;
+}
+table.Output_Fields td {
+                        vertical-align:top;
+}
+table.Output_Fields td , table.Output_Fields th {
+                                                 padding-top:3.00pt;
+                                                 padding-right:0.00pt;
+                                                 padding-left:6.00pt;
+                                                 padding-bottom:3.00pt;
+                                                 border-right-width:0;
+                                                 border-right-style:hidden;
+                                                 border-right-color:0;
+}
+table.Output_Fields thead tr {
+                              border-bottom-width:0;
+                              border-bottom-style:hidden;
+                              border-bottom-color:0;
+}
+table.Output_Fields thead tr:last-child {
+                                         border-bottom-width:0;
+                                         border-bottom-style:hidden;
+                                         border-bottom-color:0;
+}
+table.Output_Fields tr td:nth-child(1) , table.Output_Fields th:nth-child(1) {
+                                                                              border-right-width:0;
+                                                                              border-right-style:hidden;
+                                                                              border-right-color:0;
+}
+table.Output_Fields tbody tr:nth-child(4n) {
+                                            border-bottom-width:0;
+                                            border-bottom-style:hidden;
+                                            border-bottom-color:0;
+}
+table.Output_Fields tbody tr {
+                              border-bottom-width:0;
+                              border-bottom-style:hidden;
+                              border-bottom-color:0;
+}
+table.Output_Fields tfoot tr {
+                              border-top-width:0;
+                              border-top-style:hidden;
+                              border-top-color:0;
+}
+table.Output_Fields tfoot tr:first-child {
+                                          border-top-width:0;
+                                          border-top-style:hidden;
+                                          border-top-color:0;
+}
+table.Output_Fields thead tr , table.Output_Fields tfoot tr {
+                                                             background-color:#ffffff;
+}
+table.Output_Fields tbody tr:nth-child(4n+1),table.Output_Fields tbody tr:nth-child(4n+2) {
+                                                                                           background-color:#ffffff;
+}
+table.Output_Fields tbody tr:nth-child(4n-0),table.Output_Fields tbody tr:nth-child(4n-1) {
+                                                                                           background-color:#ffffff;
+}
+table.QoS_Table {
+                 margin-top:8.50pt;
+                 margin-left:18.00pt;
+                 margin-bottom:10.50pt;
+                 margin-right:0.00pt;
+                 border-collapse:collapse;
+                 direction:inherit;
+                 border-top-width:0;
+                 border-top-style:hidden;
+                 border-top-color:0;
+                 border-bottom-width:0;
+                 border-bottom-style:hidden;
+                 border-bottom-color:0;
+                 border-left-width:0;
+                 border-left-style:hidden;
+                 border-left-color:0;
+                 border-right-width:0;
+                 border-right-style:hidden;
+                 border-right-color:0;
+}
+table.QoS_Table caption {
+                         caption-side:initial;
+                         padding:6.00pt;
+}
+table.QoS_Table td {
+                    vertical-align:top;
+}
+table.QoS_Table td , table.QoS_Table th {
+                                         padding-top:3.00pt;
+                                         padding-right:3.00pt;
+                                         padding-left:0.00pt;
+                                         padding-bottom:3.00pt;
+                                         border-right-width:0;
+                                         border-right-style:hidden;
+                                         border-right-color:0;
+}
+table.QoS_Table thead tr {
+                          border-bottom-width:0;
+                          border-bottom-style:hidden;
+                          border-bottom-color:0;
+}
+table.QoS_Table thead tr:last-child {
+                                     border-bottom-width:0;
+                                     border-bottom-style:hidden;
+                                     border-bottom-color:0;
+}
+table.QoS_Table tr td:nth-child(1) , table.QoS_Table th:nth-child(1) {
+                                                                      border-right-width:0;
+                                                                      border-right-style:hidden;
+                                                                      border-right-color:0;
+}
+table.QoS_Table tbody tr:nth-child(4n) {
+                                        border-bottom-width:0;
+                                        border-bottom-style:hidden;
+                                        border-bottom-color:0;
+}
+table.QoS_Table tbody tr {
+                          border-bottom-width:0;
+                          border-bottom-style:hidden;
+                          border-bottom-color:0;
+}
+table.QoS_Table tfoot tr {
+                          border-top-width:0;
+                          border-top-style:hidden;
+                          border-top-color:0;
+}
+table.QoS_Table tfoot tr:first-child {
+                                      border-top-width:0;
+                                      border-top-style:hidden;
+                                      border-top-color:0;
+}
+table.QoS_Table thead tr , table.QoS_Table tfoot tr {
+                                                     background-color:#ffffff;
+}
+table.QoS_Table tbody tr:nth-child(4n+1),table.QoS_Table tbody tr:nth-child(4n+2) {
+                                                                                   background-color:#ffffff;
+}
+table.QoS_Table tbody tr:nth-child(4n-0),table.QoS_Table tbody tr:nth-child(4n-1) {
+                                                                                   background-color:#ffffff;
+}
+table.Related_Cmds {
+                    margin-top:8.50pt;
+                    margin-left:18.00pt;
+                    margin-bottom:10.50pt;
+                    margin-right:0.00pt;
+                    border-collapse:collapse;
+                    direction:inherit;
+                    border-top-width:0;
+                    border-top-style:hidden;
+                    border-top-color:0;
+                    border-bottom-width:0;
+                    border-bottom-style:hidden;
+                    border-bottom-color:0;
+                    border-left-width:0;
+                    border-left-style:hidden;
+                    border-left-color:0;
+                    border-right-width:0;
+                    border-right-style:hidden;
+                    border-right-color:0;
+}
+table.Related_Cmds caption {
+                            caption-side:initial;
+                            padding:6.00pt;
+}
+table.Related_Cmds td {
+                       vertical-align:top;
+}
+table.Related_Cmds td , table.Related_Cmds th {
+                                               padding-top:3.00pt;
+                                               padding-right:3.00pt;
+                                               padding-left:0.00pt;
+                                               padding-bottom:3.00pt;
+                                               border-right-width:0;
+                                               border-right-style:hidden;
+                                               border-right-color:0;
+}
+table.Related_Cmds thead tr {
+                             border-bottom-width:0;
+                             border-bottom-style:hidden;
+                             border-bottom-color:0;
+}
+table.Related_Cmds thead tr:last-child {
+                                        border-bottom-width:0;
+                                        border-bottom-style:hidden;
+                                        border-bottom-color:0;
+}
+table.Related_Cmds tr td:nth-child(1) , table.Related_Cmds th:nth-child(1) {
+                                                                            border-right-width:0;
+                                                                            border-right-style:hidden;
+                                                                            border-right-color:0;
+}
+table.Related_Cmds tbody tr:nth-child(4n) {
+                                           border-bottom-width:0;
+                                           border-bottom-style:hidden;
+                                           border-bottom-color:0;
+}
+table.Related_Cmds tbody tr {
+                             border-bottom-width:0;
+                             border-bottom-style:hidden;
+                             border-bottom-color:0;
+}
+table.Related_Cmds tfoot tr {
+                             border-top-width:0;
+                             border-top-style:hidden;
+                             border-top-color:0;
+}
+table.Related_Cmds tfoot tr:first-child {
+                                         border-top-width:0;
+                                         border-top-style:hidden;
+                                         border-top-color:0;
+}
+table.Related_Cmds thead tr , table.Related_Cmds tfoot tr {
+                                                           background-color:#ffffff;
+}
+table.Related_Cmds tbody tr:nth-child(4n+1),table.Related_Cmds tbody tr:nth-child(4n+2) {
+                                                                                         background-color:#ffffff;
+}
+table.Related_Cmds tbody tr:nth-child(4n-0),table.Related_Cmds tbody tr:nth-child(4n-1) {
+                                                                                         background-color:#ffffff;
+}
+table.Scott_s_Table {
+                     margin-top:8.50pt;
+                     margin-left:18.00pt;
+                     margin-bottom:10.50pt;
+                     margin-right:0.00pt;
+                     border-collapse:collapse;
+                     direction:inherit;
+                     border-top-width:0.5pt;
+                     border-top-style:solid;
+                     border-top-color:#000000;
+                     border-bottom-width:0.5pt;
+                     border-bottom-style:solid;
+                     border-bottom-color:#000000;
+                     border-left-width:0;
+                     border-left-style:hidden;
+                     border-left-color:0;
+                     border-right-width:0;
+                     border-right-style:hidden;
+                     border-right-color:0;
+}
+table.Scott_s_Table caption {
+                             caption-side:initial;
+                             padding:6.00pt;
+}
+table.Scott_s_Table td {
+                        vertical-align:top;
+}
+table.Scott_s_Table td , table.Scott_s_Table th {
+                                                 padding-top:4.00pt;
+                                                 padding-right:1.00pt;
+                                                 padding-left:1.00pt;
+                                                 padding-bottom:2.00pt;
+                                                 border-right-width:0;
+                                                 border-right-style:hidden;
+                                                 border-right-color:0;
+}
+table.Scott_s_Table thead tr {
+                              border-bottom-width:0.5pt;
+                              border-bottom-style:solid;
+                              border-bottom-color:#000000;
+}
+table.Scott_s_Table thead tr:last-child {
+                                         border-bottom-width:2pt;
+                                         border-bottom-style:solid;
+                                         border-bottom-color:#000000;
+}
+table.Scott_s_Table tr td:nth-child(1) , table.Scott_s_Table th:nth-child(1) {
+                                                                              border-right-width:0;
+                                                                              border-right-style:hidden;
+                                                                              border-right-color:0;
+}
+table.Scott_s_Table tbody tr:nth-child(4n) {
+                                            border-bottom-width:0;
+                                            border-bottom-style:hidden;
+                                            border-bottom-color:0;
+}
+table.Scott_s_Table tbody tr {
+                              border-bottom-width:0;
+                              border-bottom-style:hidden;
+                              border-bottom-color:0;
+}
+table.Scott_s_Table tfoot tr {
+                              border-top-width:0.5pt;
+                              border-top-style:solid;
+                              border-top-color:#000000;
+}
+table.Scott_s_Table tfoot tr:first-child {
+                                          border-top-width:2pt;
+                                          border-top-style:solid;
+                                          border-top-color:#000000;
+}
+table.Scott_s_Table thead tr , table.Scott_s_Table tfoot tr {
+                                                             background-color:#ffffff;
+}
+table.Scott_s_Table tbody tr:nth-child(4n+1),table.Scott_s_Table tbody tr:nth-child(4n+2) {
+                                                                                           background-color:#ffffff;
+}
+table.Scott_s_Table tbody tr:nth-child(4n-0),table.Scott_s_Table tbody tr:nth-child(4n-1) {
+                                                                                           background-color:#ffffff;
+}
+table.StandarTable {
+                    margin-top:12.00pt;
+                    margin-left:0.00pt;
+                    margin-bottom:12.00pt;
+                    margin-right:0.00pt;
+                    border-collapse:collapse;
+                    direction:inherit;
+                    border-top-width:0.5pt;
+                    border-top-style:solid;
+                    border-top-color:#000000;
+                    border-bottom-width:0.5pt;
+                    border-bottom-style:solid;
+                    border-bottom-color:#000000;
+                    border-left-width:0.5pt;
+                    border-left-style:solid;
+                    border-left-color:#000000;
+                    border-right-width:0.5pt;
+                    border-right-style:solid;
+                    border-right-color:#000000;
+}
+table.StandarTable caption {
+                            caption-side:top;
+                            padding:6.00pt;
+}
+table.StandarTable td {
+                       vertical-align:top;
+}
+table.StandarTable td , table.StandarTable th {
+                                               padding-top:6.00pt;
+                                               padding-right:6.00pt;
+                                               padding-left:6.00pt;
+                                               padding-bottom:4.00pt;
+                                               border-right-width:0.5pt;
+                                               border-right-style:solid;
+                                               border-right-color:#000000;
+}
+table.StandarTable thead tr {
+                             border-bottom-width:0.5pt;
+                             border-bottom-style:solid;
+                             border-bottom-color:#000000;
+}
+table.StandarTable thead tr:last-child {
+                                        border-bottom-width:2.5pt;
+                                        border-bottom-style:double;
+                                        border-bottom-color:#000000;
+}
+table.StandarTable tr td:nth-child(1) , table.StandarTable th:nth-child(1) {
+                                                                            border-right-width:0.5pt;
+                                                                            border-right-style:solid;
+                                                                            border-right-color:#000000;
+}
+table.StandarTable tbody tr:nth-child(4n) {
+                                           border-bottom-width:0.5pt;
+                                           border-bottom-style:solid;
+                                           border-bottom-color:#000000;
+}
+table.StandarTable tbody tr {
+                             border-bottom-width:0.5pt;
+                             border-bottom-style:solid;
+                             border-bottom-color:#000000;
+}
+table.StandarTable tfoot tr {
+                             border-top-width:0.5pt;
+                             border-top-style:solid;
+                             border-top-color:#000000;
+}
+table.StandarTable tfoot tr:first-child {
+                                         border-top-width:2.5pt;
+                                         border-top-style:double;
+                                         border-top-color:#000000;
+}
+table.StandarTable thead tr , table.StandarTable tfoot tr {
+                                                           background-color:#ffffff;
+}
+table.StandarTable tbody tr:nth-child(4n+1),table.StandarTable tbody tr:nth-child(4n+2) {
+                                                                                         background-color:#ffffff;
+}
+table.StandarTable tbody tr:nth-child(4n-0),table.StandarTable tbody tr:nth-child(4n-1) {
+                                                                                         background-color:#ffffff;
+}
+table.TechSpec_Table {
+                      margin-top:8.50pt;
+                      margin-left:18.00pt;
+                      margin-bottom:8.50pt;
+                      margin-right:0.00pt;
+                      border-collapse:collapse;
+                      direction:inherit;
+                      border-top-width:0.5pt;
+                      border-top-style:solid;
+                      border-top-color:#000000;
+                      border-bottom-width:0.5pt;
+                      border-bottom-style:solid;
+                      border-bottom-color:#000000;
+                      border-left-width:0;
+                      border-left-style:hidden;
+                      border-left-color:0;
+                      border-right-width:0;
+                      border-right-style:hidden;
+                      border-right-color:0;
+}
+table.TechSpec_Table caption {
+                              caption-side:initial;
+                              padding:6.00pt;
+}
+table.TechSpec_Table td {
+                         vertical-align:top;
+}
+table.TechSpec_Table td , table.TechSpec_Table th {
+                                                   padding-top:4.00pt;
+                                                   padding-right:3.00pt;
+                                                   padding-left:3.00pt;
+                                                   padding-bottom:3.00pt;
+                                                   border-right-width:0;
+                                                   border-right-style:hidden;
+                                                   border-right-color:0;
+}
+table.TechSpec_Table thead tr {
+                               border-bottom-width:0.5pt;
+                               border-bottom-style:solid;
+                               border-bottom-color:#000000;
+}
+table.TechSpec_Table thead tr:last-child {
+                                          border-bottom-width:2pt;
+                                          border-bottom-style:solid;
+                                          border-bottom-color:#000000;
+}
+table.TechSpec_Table tr td:nth-child(1) , table.TechSpec_Table th:nth-child(1) {
+                                                                                border-right-width:0;
+                                                                                border-right-style:hidden;
+                                                                                border-right-color:0;
+}
+table.TechSpec_Table tbody tr:nth-child(4n) {
+                                             border-bottom-width:0.5pt;
+                                             border-bottom-style:solid;
+                                             border-bottom-color:#000000;
+}
+table.TechSpec_Table tbody tr {
+                               border-bottom-width:0.5pt;
+                               border-bottom-style:solid;
+                               border-bottom-color:#000000;
+}
+table.TechSpec_Table tfoot tr {
+                               border-top-width:0.5pt;
+                               border-top-style:solid;
+                               border-top-color:#000000;
+}
+table.TechSpec_Table tfoot tr:first-child {
+                                           border-top-width:2pt;
+                                           border-top-style:solid;
+                                           border-top-color:#000000;
+}
+table.TechSpec_Table thead tr , table.TechSpec_Table tfoot tr {
+                                                               background-color:#ffffff;
+}
+table.TechSpec_Table tbody tr:nth-child(4n+1),table.TechSpec_Table tbody tr:nth-child(4n+2) {
+                                                                                             background-color:#ffffff;
+}
+table.TechSpec_Table tbody tr:nth-child(4n-0),table.TechSpec_Table tbody tr:nth-child(4n-1) {
+                                                                                             background-color:#ffffff;
+}
+table.UnstructMasterPageMaps {
+                              margin-top:6.00pt;
+                              margin-left:0.00pt;
+                              margin-bottom:6.00pt;
+                              margin-right:0.00pt;
+                              border-collapse:collapse;
+                              direction:inherit;
+                              border-top-width:0.5pt;
+                              border-top-style:solid;
+                              border-top-color:#000000;
+                              border-bottom-width:0.5pt;
+                              border-bottom-style:solid;
+                              border-bottom-color:#000000;
+                              border-left-width:0.5pt;
+                              border-left-style:solid;
+                              border-left-color:#000000;
+                              border-right-width:0.5pt;
+                              border-right-style:solid;
+                              border-right-color:#000000;
+}
+table.UnstructMasterPageMaps caption {
+                                      caption-side:top;
+                                      padding:4.00pt;
+}
+table.UnstructMasterPageMaps td {
+                                 vertical-align:top;
+}
+table.UnstructMasterPageMaps td , table.UnstructMasterPageMaps th {
+                                                                   padding-top:3.00pt;
+                                                                   padding-right:3.00pt;
+                                                                   padding-left:3.00pt;
+                                                                   padding-bottom:3.00pt;
+                                                                   border-right-width:0.5pt;
+                                                                   border-right-style:solid;
+                                                                   border-right-color:#000000;
+}
+table.UnstructMasterPageMaps thead tr {
+                                       border-bottom-width:0;
+                                       border-bottom-style:hidden;
+                                       border-bottom-color:0;
+}
+table.UnstructMasterPageMaps thead tr:last-child {
+                                                  border-bottom-width:2.5pt;
+                                                  border-bottom-style:double;
+                                                  border-bottom-color:#000000;
+}
+table.UnstructMasterPageMaps tr td:nth-child(1) , table.UnstructMasterPageMaps th:nth-child(1) {
+                                                                                                border-right-width:0.5pt;
+                                                                                                border-right-style:solid;
+                                                                                                border-right-color:#000000;
+}
+table.UnstructMasterPageMaps tbody tr:nth-child(4n) {
+                                                     border-bottom-width:0.5pt;
+                                                     border-bottom-style:solid;
+                                                     border-bottom-color:#000000;
+}
+table.UnstructMasterPageMaps tbody tr {
+                                       border-bottom-width:0.5pt;
+                                       border-bottom-style:solid;
+                                       border-bottom-color:#000000;
+}
+table.UnstructMasterPageMaps tfoot tr {
+                                       border-top-width:0;
+                                       border-top-style:hidden;
+                                       border-top-color:0;
+}
+table.UnstructMasterPageMaps tfoot tr:first-child {
+                                                   border-top-width:2.5pt;
+                                                   border-top-style:double;
+                                                   border-top-color:#000000;
+}
+table.UnstructMasterPageMaps thead tr , table.UnstructMasterPageMaps tfoot tr {
+                                                                               background-color:#ffffff;
+}
+table.UnstructMasterPageMaps tbody tr:nth-child(4n+1),table.UnstructMasterPageMaps tbody tr:nth-child(4n+2),table.UnstructMasterPageMaps tbody tr:nth-child(4n+3),table.UnstructMasterPageMaps tbody tr:nth-child(4n+4) {
+                                                                                                                                                                                                                         background-color:#ffffff;
+}
+body {
+      counter-reset:B_1 C_1 L_1 S_1 T_1;
+}
+img.imageSettings {
+                   border-left:!important;
+                   border-right:!important;
+                   border-top:!important;
+                   border-bottom:!important;
+}
+object.imageSettings {
+                      border-left:!important;
+                      border-right:!important;
+                      border-top:!important;
+                      border-bottom:!important;
+}
